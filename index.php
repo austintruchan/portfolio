@@ -11,14 +11,16 @@
         <link rel="stylesheet" href="style/css/navigation.css">
     </head>
 	<body>
-		<nav>
-			<ul class="nav">
-				<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
-				<li><a href="pages/work.php" class="link">Work</a></li>
-				<li><a href="pages/about.php" class="link">About</a></li>
-			</ul>
-		</nav>
+		<div class="frame">
+			<nav>
+				<ul class="nav">
+					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
+					<li><a href="pages/work.php" class="link">Work</a></li>
+					<li><a href="pages/about.php" class="link">About</a></li>
+				</ul>
+			</nav>
 		<p>Hello world! This is HTML5 Boilerplate.</p>
+		</div>
 		
 		
         <script src="js/vendor/modernizr-3.5.0.min.js"></script>
