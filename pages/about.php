@@ -13,8 +13,10 @@
         <link rel="stylesheet" href="../style/css/about.css">
     </head>
 	<body>
-		<?php include '../includes/navigation.php'; ?>
-		<p>Hello world! This is HTML5 Boilerplate.</p>
+		<div class="frame">
+			<?php include '../includes/navigation.php'; ?>
+			<p>I’m Austin Truchan, a Digital Designer based in Michigan.<br>I specialize in UI/UX, Interaction & Web Design.<br>I am the Director of Design at Matrix.</p>
+		</div>
 		
 		<?php include '../includes/footer.php'; ?>
 		<?php include '../includes/foot.php'; ?>

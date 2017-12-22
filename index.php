@@ -15,11 +15,11 @@
 			<nav>
 				<ul class="nav">
 					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
-					<li><a href="pages/work.php" class="link">Work</a></li>
-					<li><a href="pages/about.php" class="link">About</a></li>
+					<li><a href="pages/work.php" class="navlink">Work</a></li>
+					<li><a href="pages/about.php" class="navlink">About</a></li>
 				</ul>
 			</nav>
-		<p>Hello world! This is HTML5 Boilerplate.</p>
+			<h1>I’m Austin Truchan, a Digital Designer based in Michigan.<br>I specialize in UI/UX, Interaction & Web Design.<br>I am the Director of Design at <a href="pages/work.php" class="link">Matrix.</a></h1>
 		</div>
 		
 		
