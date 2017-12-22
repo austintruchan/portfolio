@@ -1,0 +1,10 @@
+html {
+	background: #131D38;
+	font-family: 'Ubuntu', sans-serif;
+	color: #FFF;
+}
+
+body {
+	margin: 10% 10% 0 10%;
+	max-width: 700px;
+}
