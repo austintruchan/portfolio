@@ -97,6 +97,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+::selection {
+  background: #FF3388; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #FF3388; /* Gecko Browsers */
+}
+
 ul {
 	margin: 0;
 	padding: 0;

@@ -1,7 +1,7 @@
 .bg-top {
 	left: -100px;
 	position: absolute;
-	right:0;
+	right: 0;
 	top: -100px;
 	z-index: -1;
 	overflow: hidden;
@@ -17,20 +17,61 @@
    ========================================================================== */
 
 .bg-top {
-  animation: MoveUpDown 15s ease infinite;
+  animation: MoveUpDown 20s ease infinite;
 }
 
 @keyframes MoveUpDown {
   0% {
-    top: -200px;
-    left: -200px;
+    top: -300px;
+    left: -300px;
   }
   50% {
     top: -50px;
     left: 0;
   }
   100% {
-    top: -200px;
-    left: -200px;
+    top: -300px;
+    left: -300px;
+  }
+}
+
+/* ==========================================================================
+   bg-bottom
+   ========================================================================== */
+
+.bg-bottom {
+	left: 0;
+	position: absolute;
+	right: 0;
+	bottom: -100px;
+	z-index: -2;
+	overflow: hidden;
+}
+
+.bg-bottom img {
+	height: auto;
+	width: 110%;
+}
+
+/* ==========================================================================
+   bg-bottom Animation
+   ========================================================================== */
+
+.bg-bottom {
+  animation: MoveDownUp 30s ease infinite;
+}
+
+@keyframes MoveDownUp {
+  0% {
+    bottom: 0px;
+    left: -300px;
+  }
+  50% {
+    bottom: 0;
+    left: 0;
+  }
+  100% {
+    bottom: 0;
+    left: -300px;
   }
 }

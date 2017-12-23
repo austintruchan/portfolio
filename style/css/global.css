@@ -5,11 +5,13 @@ html {
 }
 
 body {
-	margin: 10%;
+	height: 100%;
+	position: relative;
 }
 
 .frame {
 	margin: 0 auto;
+	padding: 10%;
 	max-width: 675px;
 }
 
@@ -49,4 +51,7 @@ a {
 	padding: 0 0 15px 0;
 }
 
+.space {
+	height: 1000px;
+}
 
