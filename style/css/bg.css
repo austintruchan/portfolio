@@ -1,0 +1,36 @@
+.bg-top {
+	left: -100px;
+	position: absolute;
+	right:0;
+	top: -100px;
+	z-index: -1;
+	overflow: hidden;
+}
+
+.bg-top img {
+	height: auto;
+	width: 110%;
+}
+
+/* ==========================================================================
+   bg-top Animation
+   ========================================================================== */
+
+.bg-top {
+  animation: MoveUpDown 15s ease infinite;
+}
+
+@keyframes MoveUpDown {
+  0% {
+    top: -200px;
+    left: -200px;
+  }
+  50% {
+    top: -50px;
+    left: 0;
+  }
+  100% {
+    top: -200px;
+    left: -200px;
+  }
+}

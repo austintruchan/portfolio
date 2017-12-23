@@ -1,5 +1,5 @@
 nav {
-	margin-bottom: 100px;
+	margin-bottom: 15%;
 }
 
 ul.nav {
@@ -13,13 +13,12 @@ ul.nav li:first-child {
 
 img.logo {
 	margin-top: -5px;
-	width: 70px;
 }
 
 .navlink {
 	border-bottom: 0px solid #FF3388;
 	color: #FFF;
-	margin: 10px;
+	margin-left: 40px;
 	padding: 0;
 	transition: all .2s ease;
 }
