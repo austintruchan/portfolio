@@ -12,7 +12,7 @@ body {
 .frame {
 	margin: 0 auto;
 	padding: 10%;
-	max-width: 675px;
+	max-width: 700px;
 }
 
 h1 {
@@ -25,29 +25,45 @@ a {
 }
 
 .link {
-	border-bottom: 0px solid #FF3388;
+	border-bottom: 0px solid #FF3377;
 	color: #FFF;
 	padding: 0;
 	transition: all .2s ease;
 }
 
 .link:hover {
-	border-bottom: 3px solid #FF3388;
-	color: #FF3388;
+	border-bottom: 3px solid #FF3377;
+	color: #FF3377;
 	padding-bottom: 10px;
 }
 
-.link-subActive {
-	border-bottom: 3px solid #FF3388;
+.link-list {
+	border-bottom: 0px solid #FF3377;
 	color: #FFF;
+	font-size: 18px;
+	margin-left: 30px;
+	padding: 0;
+	transition: all .2s ease;
+}
+
+.link-list:hover {
+	border-bottom: 3px solid #FF3377;
+	color: #FF3377;
+	padding-bottom: 10px;
+}
+
+.link-action {
+	border-bottom: 3px solid #FF3377;
+	color: #FFF;
+	font-size: 18px;
 	margin: 0 40px 0 0;
 	padding: 0 0 5px 0;
 	transition: all .2s ease;
 }
 
-.link-subActive:hover {
-	border-bottom: 3px solid #FF3388;
-	color: #FF3388;
+.link-action:hover {
+	border-bottom: 3px solid #FF3377;
+	color: #FF3377;
 	padding: 0 0 15px 0;
 }
 

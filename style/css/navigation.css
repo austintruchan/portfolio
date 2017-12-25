@@ -14,17 +14,3 @@ ul.nav li:first-child {
 img.logo {
 	margin-top: -5px;
 }
-
-.navlink {
-	border-bottom: 0px solid #FF3388;
-	color: #FFF;
-	margin-left: 40px;
-	padding: 0;
-	transition: all .2s ease;
-}
-
-.navlink:hover {
-	border-bottom: 3px solid #FF3388;
-	color: #FF3388;
-	padding-bottom: 10px;
-}

@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="style/css/bg.css">
         <link rel="stylesheet" href="style/css/navigation.css">
         <link rel="stylesheet" href="style/css/home.css">
+        <link rel="stylesheet" href="style/css/footer.css">
     </head>
 	<body>
 		
@@ -21,17 +22,20 @@
 			<nav>
 				<ul class="nav">
 					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
-					<li><a href="pages/work.php" class="navlink">Work</a></li>
-					<li><a href="pages/about.php" class="navlink">About</a></li>
-					<li><a href="pages/about.php" class="navlink">Say Hello</a></li></ul></nav>
+					<li><a href="pages/work.php" class="link-list">Work</a></li>
+					<li><a href="pages/about.php" class="link-list">About</a></li></ul></nav>
 			
 			<div class="name"><img src="style/imgs/name.svg" alt="Austin Truchan"/></div>
 			
 			<h1 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan.<br>I specialize in UI/UX, Interaction & Web Design.<br>I am the Director of Design at <a href="pages/work.php" class="link">Matrix.</a></h1>
 			
-			<div class="intro-action"><a href="contact.php" class="link-subActive">Let's Work Together</a><a href="pages/about.php" class="link-subActive">Learn More</a></div></div>
+			<div class="intro-action"><a href="contact.php" class="link-action">Let's Work Together</a><a href="pages/about.php" class="link-action">Learn More</a></div>
 			
 			<div class="space"></div>
+			
+			<?php include 'includes/footer.php'; ?></div>
+			
+			
 			
 			
 			<div class="bg-top"><img src="style/imgs/bg-top.svg"/></div>
