@@ -11,7 +11,7 @@
 
 .tile {
 	background-color: #131D38;
-	box-shadow: 0 10px 20px 0 rgba(0,0,0,.2);
+	box-shadow: 0 10px 20px 0 rgba(10,16,32,.1);
 	margin: 1%;
 	position: relative;
 	transition: all .2s ease-out;
@@ -20,8 +20,8 @@
 }
 
 .tile:hover {
-	box-shadow: 0 20px 40px 0 rgba(0,0,0,.4);
-	transform: scale(1.1,1.1);
+	box-shadow: 0 20px 40px 0 rgba(10,16,32,.3);
+	transform: scale(1.05,1.05);
 	z-index: 2;
 }
 
@@ -31,7 +31,6 @@
 
 .overlay {
 	background-color: rgba(15,22,43,1);
-	border: 1px solid rgba(15,22,43,1);
 	height: 100%;
 	mix-blend-mode: color;
 	position: absolute;
@@ -41,7 +40,6 @@
 
 .overlay:hover{
 	background-color: rgba(15,22,43,0);
-	border: none;
 }
 
 .tile img {
@@ -71,7 +69,7 @@
 	}
 	
 	.tile:hover {
-		transform: scale(1.05,1.05);
+		transform: scale(1.03,1.03);
 	}
 	
 	.view-all-work {

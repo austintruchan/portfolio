@@ -7,10 +7,40 @@
 	width: 100%;
 }
 
+.name-small {
+	display: none;
+}
+
+.name-small img {
+	height: auto;
+	width: 70%;
+}
+
 .intro {
 	margin-bottom: 50px;
 }
 
 .intro-action {
-	margin-bottom: 130px;
+	margin-bottom: 110px;
+}
+
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
+@media screen and (max-width: 700px){
+	.name {
+		display: none;
+	}
+	.name-small {
+		display: block;
+		margin-bottom: 50px;
+	}
+	.intro {
+		font-size: 20px;
+	}
+	.rwd-break {
+		display: none;
+	}
 }
