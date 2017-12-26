@@ -34,7 +34,7 @@ a {
 .link:hover {
 	border-bottom: 3px solid #FF3377;
 	color: #FF3377;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 }
 
 .link-list {
@@ -49,7 +49,7 @@ a {
 .link-list:hover {
 	border-bottom: 3px solid #FF3377;
 	color: #FF3377;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 }
 
 .link-action {
@@ -64,7 +64,7 @@ a {
 .link-action:hover {
 	border-bottom: 3px solid #FF3377;
 	color: #FF3377;
-	padding: 0 0 15px 0;
+	padding: 0 0 10px 0;
 }
 
 .space {

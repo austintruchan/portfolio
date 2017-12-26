@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="style/css/bg.css">
         <link rel="stylesheet" href="style/css/navigation.css">
         <link rel="stylesheet" href="style/css/home.css">
+        <link rel="stylesheet" href="style/css/tiles.css">
         <link rel="stylesheet" href="style/css/footer.css">
     </head>
 	<body>
@@ -29,10 +30,11 @@
 			
 			<h1 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan.<br>I specialize in UI/UX, Interaction & Web Design.<br>I am the Director of Design at <a href="pages/work.php" class="link">Matrix.</a></h1>
 			
-			<div class="intro-action"><a href="contact.php" class="link-action">Let's Work Together</a><a href="pages/about.php" class="link-action">Learn More</a></div>
+			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines..." class="link-action">Let's Work Together</a><a href="pages/about.php" class="link-action">Learn More</a></div>
 			
-			<div class="space"></div>
+			<?php include 'includes/featured.php'; ?>
 			
+		
 			<?php include 'includes/footer.php'; ?></div>
 			
 			

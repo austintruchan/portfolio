@@ -1,0 +1,52 @@
+.tiles {
+	margin: -1% -1% 140px -1%;
+}
+
+.tiles ul {
+	display: inline-block;
+    width: 100%;
+}
+
+.tile {
+	background-color: #131D38;
+	box-shadow: 0 0 0 0 rgba(0,0,0,0);
+	float: left;
+	margin: 1%;
+	opacity: .6;
+	position: relative;
+	transition: all .3s ease-in-out;
+	width: 31.33%;
+}
+
+.tile:hover {
+	box-shadow: 0 10px 20px 0 rgba(0,0,0,.2);
+	opacity: 1;
+	transform: rotate(3deg) scale(1.2,1.2);
+	z-index: 2;
+}
+
+.tile:hover:nth-child(odd) {
+	transform: rotate(-3deg) scale(1.2,1.2);
+}
+
+.tile a {
+	display: block;
+}
+
+.overlay {
+	background-color: rgba(15,22,43,1);
+	height: 100%;
+	mix-blend-mode: color;
+	position: absolute;
+	transition: all .2s ease;
+	width: 100%;
+}
+
+.overlay:hover{
+	background-color: rgba(15,22,43,0);
+}
+
+.tile img {
+	width: 100%;
+}
+
