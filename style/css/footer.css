@@ -7,6 +7,11 @@ footer ul li:first-child {
 	margin-right: auto;
 }
 
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
 @media screen and (max-width: 600px){
 	footer ul {
 		display: block;
