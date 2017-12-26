@@ -17,7 +17,7 @@
    ========================================================================== */
 
 .bg-top {
-  animation: MoveUpDown 20s ease infinite;
+  animation: Move 20s ease infinite;
 }
 
 @keyframes MoveUpDown {
@@ -58,7 +58,7 @@
    ========================================================================== */
 
 .bg-bottom {
-  animation: MoveDownUp 30s ease infinite;
+  animation: Move 30s ease infinite;
 }
 
 @keyframes MoveDownUp {
