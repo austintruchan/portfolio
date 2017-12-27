@@ -60,10 +60,9 @@
 					<li class="tile"><a href="#"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman-tile.png"/></a></li></ul></div>
 
 		
-			<div class="bg-frame">
-				<div class='wave -one'></div></div>
-			
-			<div class="bg-bottom"><img src="../style/imgs/bg-bottom.svg"/></div>
+			<div class="blob-frame">
+				<div class='blob -one'></div>
+				<div class='blob -two'></div></div>
 
 		
 			<?php include '../includes/footer.php'; ?></div>

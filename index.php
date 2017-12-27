@@ -40,10 +40,10 @@
 		
 			<?php include 'includes/footer.php'; ?></div>
 			
-			<div class="bg-frame">
-				<div class='wave -one'></div></div>
+			<div class="blob-frame">
+				<div class='blob -one'></div>
+				<div class='blob -two'></div></div>
 			
-			<div class="bg-bottom"><img src="../style/imgs/bg-bottom.svg"/></div>
 		
 		
         <script src="style/js/vendor/modernizr-3.5.0.min.js"></script>

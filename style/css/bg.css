@@ -78,10 +78,10 @@
 }
 
 /* ==========================================================================
-   Blogs!
+   Blobs!
    ========================================================================== */
 
-.bg-frame {
+.blob-frame {
 	overflow: hidden;
 	height: 100%;
 	width: 100vw;
@@ -91,20 +91,41 @@
 	z-index: -1;
 }
 
-.wave {
-	opacity: 1;
+.blob {
+	opacity: .5;
 	position: absolute;
-	top: -70vw;
+	left: -100vw;
 	background: #1B2A52;
-	width: 120vw;
-	height: 120vw;
+	width: 150vw;
+	height: 150vw;
 	border-radius: 43%;
-	animation: drift 25s infinite linear;
+	animation: blob 25s infinite linear;
 	z-index: -1;
 	overflow: hidden;
 }
 
-@keyframes drift {
-	from { transform: rotate(0deg); }
-	from { transform: rotate(360deg); }
+.blob.-two {
+	opacity: 1;
+  animation: blob 30s infinite ease;
+  width: 142vw;
+  height: 142vw;
+}
+
+.blob-bottom {
+  opacity: 1;
+  position: absolute;
+  bottom: -225vw;
+  right: -130vw;
+  background: #0E1529;
+  width: 250vw;
+  height: 250vw;
+  border-radius: 43%;
+  animation: blob 55s infinite ease-in-out;
+  z-index: -2;
+  overflow: hidden;
+}
+
+@keyframes blob {
+	from { transform: rotate(0deg) rotateZ(360deg); }
+	from { transform: rotate(360deg) rotateZ(360deg); }
 }

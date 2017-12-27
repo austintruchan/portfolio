@@ -12,7 +12,6 @@
 
 .tile {
 	background-color: #131D38;
-	box-shadow: 0 10px 20px 0 rgba(10,16,32,.1);
 	margin: 1%;
 	position: relative;
 	transition: all .2s ease-out;
@@ -21,7 +20,6 @@
 }
 
 .tile:hover {
-	box-shadow: 0 20px 40px 0 rgba(10,16,32,.3);
 	transform: scale(1.05,1.05);
 	z-index: 2;
 }
@@ -31,7 +29,7 @@
 }
 
 .overlay {
-	background-color: rgba(15,22,43,1);
+	background-color: rgba(14,21,41,1);
 	height: 100%;
 	mix-blend-mode: color;
 	position: absolute;
@@ -40,7 +38,7 @@
 }
 
 .overlay:hover{
-	background-color: rgba(15,22,43,0);
+	background-color: rgba(14,21,41,0);
 }
 
 .tile img {
