@@ -1,3 +1,7 @@
+footer {
+	margin-top: 150px;
+}
+
 footer ul {
 	display: -webkit-flex;
 	display: flex;

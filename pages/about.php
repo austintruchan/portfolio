@@ -7,18 +7,35 @@
         <link rel="apple-touch-icon" href="../style/img/icon.png">
         <link rel="stylesheet" href="../style/css/normalize.css">
         <link rel="stylesheet" href="../style/css/main.css">
-        <link rel="stylesheet" href="../style/css/global.css">
         <link rel="stylesheet" href="../style/css/fonts.css">
+        <link rel="stylesheet" href="../style/css/global.css">
+        <link rel="stylesheet" href="../style/css/fader.css">
+        <link rel="stylesheet" href="../style/css/bg.css">
         <link rel="stylesheet" href="../style/css/navigation.css">
-        <link rel="stylesheet" href="../style/css/about.css">
+        <link rel="stylesheet" href="../style/css/footer.css">
     </head>
 	<body>
 		<div class="frame">
-			<?php include '../includes/navigation.php'; ?>
-			<p>I’m Austin Truchan, a Digital Designer based in Michigan.<br>I specialize in UI/UX, Interaction & Web Design.<br>I am the Director of Design at Matrix.</p>
+			
+			<nav>
+				<ul class="nav">
+					<li><a href="../index.php"><img class="logo" src="../style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
+					<li><a href="../pages/work.php" class="link-list">Work</a></li>
+					<li><a href="../pages/about.php" class="link-list active">About</a></li></ul></nav>
+			
+			<p>Hello! Thanks for stopping by. I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I enjoy creating elegant, delightful works that put usability and accessiblity first. If you're interested in working together, I’m currently on the lookout for new projects, so please feel free to get in touch! You can reach me at <a class="link-action">austintruchan@me.com</a></p>
+			
+			<p>Hello! Thanks for stopping by. I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I enjoy creating elegant, delightful works that put usability and accessiblity first. If you're interested in working together, I’m currently on the lookout for new projects, so please feel free to get in touch! You can reach me at <a class="link-action">austintruchan@me.com</a></p>
+
+		
+			<?php include '../includes/footer.php'; ?>
 		</div>
 		
-		<?php include '../includes/footer.php'; ?>
+		<div class="bg-frame">
+			<div class='wave -one'></div></div>
+			
+			<div class="bg-bottom"><img src="../style/imgs/bg-bottom.svg"/></div>
+			
 		<?php include '../includes/foot.php'; ?>
 	</body>
 </html>

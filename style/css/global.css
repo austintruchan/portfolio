@@ -11,8 +11,8 @@ body {
 
 .frame {
 	margin: 0 auto;
-	padding: 10%;
 	max-width: 700px;
+	padding: 10%;
 }
 
 h1 {
@@ -24,8 +24,14 @@ a {
 	font-family: 'Ubuntu-Italic', sans-serif;
 }
 
+p {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	line-height: 36px;
+}
+
 .link {
-	border-bottom: 0px solid #FF3377;
+	border-bottom: 3px solid transparent;
 	color: #FFF;
 	padding: 0;
 	transition: all .2s ease;
@@ -38,7 +44,7 @@ a {
 }
 
 .link-list {
-	border-bottom: 0px solid #FF3377;
+	border-bottom: 3px solid transparent;
 	color: #FFF;
 	font-size: 18px;
 	margin-left: 30px;
@@ -47,6 +53,12 @@ a {
 }
 
 .link-list:hover {
+	border-bottom: 3px solid #FF3377;
+	color: #FF3377;
+	padding-bottom: 5px;
+}
+
+.link-list.active {
 	border-bottom: 3px solid #FF3377;
 	color: #FF3377;
 	padding-bottom: 5px;

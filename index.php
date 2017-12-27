@@ -9,7 +9,6 @@
         <link rel="stylesheet" href="style/css/main.css">
         <link rel="stylesheet" href="style/css/fonts.css">
         <link rel="stylesheet" href="style/css/global.css">
-        <link rel="stylesheet" href="style/css/fader.css">
         <link rel="stylesheet" href="style/css/bg.css">
         <link rel="stylesheet" href="style/css/navigation.css">
         <link rel="stylesheet" href="style/css/home.css">
@@ -17,11 +16,9 @@
         <link rel="stylesheet" href="style/css/footer.css">
     </head>
 	<body>
-		
 		<div class="frame">
 			
-			<nav>
-				<ul class="nav">
+			<nav><ul class="nav">
 					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
 					<li><a href="pages/work.php" class="link-list">Work</a></li>
 					<li><a href="pages/about.php" class="link-list">About</a></li></ul></nav>
@@ -33,16 +30,20 @@
 			
 			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines..." class="link-action">Let's Work Together</a><a href="pages/about.php" class="link-action">Learn More</a></div>
 			
-			<?php include 'includes/featured.php'; ?>
-			
+			<div class="tiles"><ul>
+					<li class="tile"><a href="pages/about.php"><div class="overlay"></div><img src="style/imgs/tiles/halo-tile.png"/></a></li>
+					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/2030-tile.png"/></a></li>
+					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/kresgo-tile.png"/></a></li>
+					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/aodl-tile.png"/></a></li>
+					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/eisenman-tile.png"/></a></li>
+					<div class="view-all-work"><div><a href="pages/work.php" class="link-action">View All Work</a></div></div></ul></div>
 		
 			<?php include 'includes/footer.php'; ?></div>
 			
+			<div class="bg-frame">
+				<div class='wave -one'></div></div>
 			
-			
-			
-			<div class="bg-top"><img src="style/imgs/bg-top.svg"/></div>
-			<div class="bg-bottom"><img src="style/imgs/bg-bottom.svg"/></div>
+			<div class="bg-bottom"><img src="../style/imgs/bg-bottom.svg"/></div>
 		
 		
         <script src="style/js/vendor/modernizr-3.5.0.min.js"></script>
