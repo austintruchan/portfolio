@@ -16,7 +16,13 @@ body {
 }
 
 h1 {
-	font-size: 22px;
+	font-family: 'Ubuntu-Medium', sans-serif;
+	font-size: 40px;
+	line-height: 40px;
+}
+
+h2 {
+	font-size: 24px;
 	line-height: 40px;
 }
 
@@ -28,6 +34,18 @@ p {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 16px;
 	line-height: 36px;
+	margin: 0;
+}
+
+span {
+	font-family: 'Ubuntu-Medium', sans-serif;
+	font-size: 22px;
+}
+
+span.underline {
+	border-bottom: 1px solid rgba(255,255,255,1);
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
 }
 
 .link {
@@ -79,7 +97,11 @@ p {
 	padding: 0 3px 10px 3px;
 }
 
-.space {
-	height: 1000px;
+.spacer {
+	margin-bottom: 10%;
+}
+
+.spacer2 {
+	margin-bottom: 20%;
 }
 

@@ -29,16 +29,13 @@
    Responsiveness
    ========================================================================== */
    
-@media screen and (max-width: 700px){
+@media screen and (max-width: 760px){
 	.name {
 		display: none;
 	}
 	.name-small {
 		display: block;
 		margin-bottom: 50px;
-	}
-	.intro {
-		font-size: 20px;
 	}
 	.rwd-break {
 		display: none;

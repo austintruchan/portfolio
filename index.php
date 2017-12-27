@@ -20,23 +20,23 @@
 			
 			<nav><ul class="nav">
 					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
-					<li><a href="pages/work.php" class="link-list">Work</a></li>
-					<li><a href="pages/about.php" class="link-list">About</a></li></ul></nav>
+					<li><a href="pages/-work.php" class="link-list">Work</a></li>
+					<li><a href="pages/-about.php" class="link-list">About</a></li></ul></nav>
 			
 			<div class="name"><img src="style/imgs/name.svg" alt="Austin Truchan"/></div>
 			<div class="name-small"><img src="style/imgs/name-small.svg" alt="Austin Truchan"/></div>
 			
-			<h1 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan. <br class="rwd-break">I specialize in UI/UX, Interaction & Web Design. <br class="rwd-break">I am the Director of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix.</a></h1>
-			
-			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines..." class="link-action">Let's Work Together</a><a href="pages/about.php" class="link-action">Learn More</a></div>
+			<h2 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan. <br class="rwd-break">I specialize in UI/UX, Interaction & Web Design. <br class="rwd-break">I am the Director of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h2>
+						
+			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines..." class="link-action"> Let's Work Together</a><a href="pages/-about.php" class="link-action">Learn More</a></div>
 			
 			<div class="tiles"><ul>
-					<li class="tile"><a href="pages/about.php"><div class="overlay"></div><img src="style/imgs/tiles/halo-tile.png"/></a></li>
+					<li class="tile"><a href="pages/halo.php"><div class="overlay"></div><img src="style/imgs/tiles/halo-tile.png"/></a></li>
 					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/2030-tile.png"/></a></li>
 					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/kresgo-tile.png"/></a></li>
-					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/aodl-tile.png"/></a></li>
+					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/catastrophe-tile.png"/></a></li>
 					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/eisenman-tile.png"/></a></li>
-					<div class="view-all-work"><div><a href="pages/work.php" class="link-action">View All Work</a></div></div></ul></div>
+					<div class="view-all-work"><div><a href="pages/-work.php" class="link-action">View All Work</a></div></div></ul></div>
 		
 			<?php include 'includes/footer.php'; ?></div>
 			

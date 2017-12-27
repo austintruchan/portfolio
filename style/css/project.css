@@ -1,0 +1,28 @@
+.project-image {
+	margin: 10% 0;
+	width: 100%;
+}
+
+.lightbox {
+	background: rgba(14,21,41,0.5);
+	display: none;
+	height: 100%;
+	left: 0;
+	overflow-y: scroll;
+	position: fixed;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	 -webkit-overflow-scrolling: touch;
+	z-index: 999;
+}
+
+.lightbox img {
+	margin: 2%;
+	width: 96%;
+}
+
+.lightbox:target {
+	display: block;
+	outline: none;
+}
