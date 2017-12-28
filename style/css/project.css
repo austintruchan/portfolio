@@ -1,13 +1,14 @@
 .project-frame {
+	color: #131D38;
 	width: 120%;
 	margin: 0 -10%;
 	background: rgba(255, 255, 255, 1);
 	position: relative;
+		
 }
 
 .project-content {
 	padding: 8%;
-	color: #131D38;
 }
 
 .project-splash {
@@ -22,10 +23,6 @@
 	background-size: cover;
 	height: 100%;
 	padding: 9%;
-}
-
-.project-splash h1, h2 {
-	color: #131D38;
 }
 
 .white {
