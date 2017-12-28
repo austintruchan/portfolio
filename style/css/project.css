@@ -1,6 +1,47 @@
+.project-frame {
+	width: 120%;
+	margin: 0 -10%;
+	background: rgba(255, 255, 255, 1);
+	position: relative;
+}
+
+.project-content {
+	padding: 8%;
+	color: #131D38;
+}
+
+.project-splash {
+	background: url("../imgs/projects/kresgo/splash.jpg") no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 9%;
+}
+
+.project-splash.halo {
+	background: url("../imgs/projects/halo/splash.jpg") no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 9%;
+}
+
+.project-splash h1, h2 {
+	color: #131D38;
+}
+
+.white {
+	color: #FFF;
+}
+
+.project-splash img {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
 .project-image {
 	margin: 10% 0;
 	width: 100%;
+	box-shadow: 0 20px 30px 0 rgba(19, 29, 56, .15);
 }
 
 .no-margin-top {

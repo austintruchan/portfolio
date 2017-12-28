@@ -23,10 +23,14 @@
 			
 			<?php include '../includes/navigation.php'; ?>
 			
-			
-			
-			<h1>Kresgo</h1>
-			<h2>Large Scale Interactive Display</h2>
+			<div class="project-frame">
+				
+				<div class="project-splash">
+					<h1 class="white">Kresgo</h1>
+					<h2 class="white">Large Scale Interactive Display</h2></div>
+				
+				<div class="project-content">
+					
 					
 			<p><span>Kresgo is a large-scale interactive display concept for the Kresge Building on the campus of MSU.</span> It is meant to serve the students, faculty and newcomers of Kresge, assisting them in finding their way around the building, finding specific people in the building, and viewing student work. I wanted to create an interactive device that could listen and guide you where you need to go with just a single tap, allowing the user to get on with their day as quickly as possible.</p>
 			
@@ -70,6 +74,8 @@
 			
 			<a href="#img12"><img class="project-image" src="../style/imgs/projects/kresgo/kresgo-real2.jpg"/></a>
 			<a href="#_" class="lightbox" id="img12"><img src="../style/imgs/projects/kresgo/kresgo-real2.jpg"></a>
+			
+			</div></div>
 			
 	
 						

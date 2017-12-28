@@ -85,7 +85,7 @@ span.underline {
 .link-list.active {
 	border-bottom: 3px solid #FF3377;
 	color: #FF3377;
-	padding-bottom: 5px;
+	padding-bottom: 8px;
 }
 
 .link-action {
