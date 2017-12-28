@@ -26,7 +26,7 @@
 			<div class="name"><img src="style/imgs/name.svg" alt="Austin Truchan"/></div>
 			<div class="name-small"><img src="style/imgs/name-small.svg" alt="Austin Truchan"/></div>
 			
-			<h3 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan. <br class="rwd-break">I specialize in UI/UX, Interaction & Web Design. <br class="rwd-break">I am the Director of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h3>
+			<h2 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan. <br class="rwd-break">I specialize in UI/UX, Interaction & Web Design. <br class="rwd-break">I am the Director of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h2>
 						
 			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines..." class="link-action"> Let's Work Together</a><a href="pages/-about.php" class="link-action">Learn More</a></div>
 			

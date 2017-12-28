@@ -11,7 +11,7 @@ body {
 
 .frame {
 	margin: 0 auto;
-	max-width: 700px;
+	max-width: 800px;
 	padding: 10%;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-	font-family: 'Ubuntu-Medium', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 25px;
 	line-height: 40px;
 }
@@ -45,7 +45,7 @@ p {
 
 span {
 	font-family: 'Ubuntu-Medium', sans-serif;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 span.underline {

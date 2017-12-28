@@ -22,8 +22,9 @@
 					<li><a href="../index.php"><img class="logo" src="../style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
 					<li><a href="-work.php" class="link-list">Work</a></li>
 					<li><a href="-about.php" class="link-list active">About</a></li></ul></nav>
-			
-					<h2>Hello! Thanks for stopping by!</h2>
+					
+					<h1>Hello!</h1>
+					<h2>Thanks for stopping by!</h2>
 				
 			<p class="about">I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I enjoy creating elegant, delightful works that put usability and accessiblity first. If you're interested in working together, <span>I’m currently on the lookout for new projects,</span> so please feel free to get in touch!</p><br>
 			
