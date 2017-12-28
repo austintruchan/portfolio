@@ -16,13 +16,19 @@ body {
 }
 
 h1 {
-	font-family: 'Ubuntu-Medium', sans-serif;
-	font-size: 40px;
+	font-family: 'Ubuntu-Medium-Italic', sans-serif;
+	font-size: 45px;
 	line-height: 40px;
 }
 
 h2 {
-	font-size: 24px;
+	font-family: 'Ubuntu-Medium', sans-serif;
+	font-size: 25px;
+	line-height: 40px;
+}
+
+h3 {
+	font-size: 22px;
 	line-height: 40px;
 }
 
@@ -31,15 +37,15 @@ a {
 }
 
 p {
-	font-family: 'Ubuntu', sans-serif;
-	font-size: 16px;
-	line-height: 36px;
+	font-family: 'Ubuntu-light', sans-serif;
+	font-size: 14px;
+	line-height: 28px;
 	margin: 0;
 }
 
 span {
 	font-family: 'Ubuntu-Medium', sans-serif;
-	font-size: 22px;
+	font-size: 20px;
 }
 
 span.underline {
@@ -103,5 +109,11 @@ span.underline {
 
 .spacer2 {
 	margin-bottom: 20%;
+}
+
+.force-gpu {
+    transform: translateZ(0);
+    transform: rotateZ(360deg);
+    will-change: transform;
 }
 

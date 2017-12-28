@@ -110,14 +110,35 @@ a {
 	text-decoration: none;
 }
 
-h1 {
+h1, h2, h3 {
 	font-weight: normal;
 }
 
-h2 {
-	font-weight: normal;
+@-moz-document url-prefix() { 
+	/*
+  .blob {
+	border-radius: 50% !important;
+	animation: none !important;
 }
 
+.blob.-two {
+  	animation: none !important;
+  }*/
+
+.tile {
+	background-color: transparent !important;
+	width: 33.33% !important;
+	margin: 0 !important;
+}
+
+.tile a {
+	margin: 3% !important;
+}
+
+.overlay {
+	display: none !important;
+}
+}
 
 
 

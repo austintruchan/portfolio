@@ -2,7 +2,7 @@
 <html class="no-js" lang="">
     <head>
 	    <?php include '../includes/head.php'; ?>
-	    <title>Austin Truchan. Product Designer</title>
+	    <title>Austin Truchan. Halo Coffee.</title>
 	    <link rel="manifest" href="../site.webmanifest">
         <link rel="apple-touch-icon" href="../style/img/icon.png">
         <link rel="stylesheet" href="../style/css/normalize.css">
@@ -25,7 +25,6 @@
 			
 			<h1>Halo Coffee</h1>
 			<h2>Expiremental web design for a made up coffee shop.</h2>
-			<div class="spacer"></div>
 					
 			<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			

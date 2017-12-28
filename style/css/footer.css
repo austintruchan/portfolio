@@ -16,7 +16,7 @@ footer ul li:first-child {
    Responsiveness
    ========================================================================== */
    
-@media screen and (max-width: 600px){
+@media screen and (max-width: 650px){
 	footer ul {
 		display: block;
 	}

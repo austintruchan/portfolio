@@ -17,6 +17,7 @@
 	transition: all .2s ease-out;
 	width: 31.33%;
 	z-index: 1;
+	will-change: transform;
 }
 
 .tile:hover {
@@ -62,7 +63,7 @@
    Responsiveness
    ========================================================================== */
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 650px){
 	.tile {
 		width: 48%;
 	}

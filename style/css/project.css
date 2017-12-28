@@ -3,13 +3,23 @@
 	width: 100%;
 }
 
+.no-margin-top {
+	margin-top: 0 !important;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0 !important;
+}
+
 .lightbox {
-	background: rgba(14,21,41,0.5);
+	background: rgba(14,21,41,0.9);
+	bottom: 0;
 	display: none;
 	height: 100%;
 	left: 0;
 	overflow-y: scroll;
 	position: fixed;
+	right: 0;
 	text-align: center;
 	top: 0;
 	width: 100%;
@@ -25,4 +35,18 @@
 .lightbox:target {
 	display: block;
 	outline: none;
+}
+
+.video-wrapper {
+	position: relative;
+	padding: 0 0 58% 0;
+	height: 0;
+}
+
+iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
