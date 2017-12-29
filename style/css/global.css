@@ -16,8 +16,8 @@ body {
 }
 
 h1 {
-	font-family: "bjorn", sans-serif;
-	font-size: 40px;
+	font-family: "Ubuntu", sans-serif;
+	font-size: 50px;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
 	-ms-hyphens: auto;
@@ -42,7 +42,7 @@ a {
 }
 
 p {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Ubuntu-Light', sans-serif;
 	font-size: 15px;
 	line-height: 30px;
 	margin: 0;

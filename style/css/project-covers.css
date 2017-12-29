@@ -9,8 +9,20 @@
 	background-size: cover;
 }
 
+.adapt {
+	background: url("../imgs/projects/adapt/splash.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
 .catastrophe {
 	background: url("../imgs/projects/catastrophe/splash.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.eisenman {
+	background: url("../imgs/projects/eisenman/splash.jpg") no-repeat;
 	background-position: center;
 	background-size: cover;
 }
@@ -29,7 +41,7 @@
 
 .spartahack {
 	background: url("../imgs/projects/spartahack/splash.jpg") no-repeat;
-	background-position: center;
+	background-position: center top;
 	background-size: cover;
 }
 

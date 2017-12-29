@@ -38,7 +38,9 @@
 			
 			<div class="tiles">
 				<ul>
+					<li class="tile"><a href="adapt.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/adapt.png"/></a></li>
 					<li class="tile"><a href="spartahack.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/spartahack.png"/></a></li>
+					<li class="tile"><a href="eisenman.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman.png"/></a></li>
 					</ul></div>
 
 			<div class="blob-frame">
