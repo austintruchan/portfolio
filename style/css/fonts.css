@@ -1,4 +1,28 @@
 @font-face {
+    font-family: 'bjorn-halftone';
+    src: url('../fonts/bjorn/bjorn_halftone.woff2') format('woff2'),
+         url('../fonts/bjorn/bjorn_halftone.woff') format('woff'),
+         url('../fonts/bjorn/bjorn_halftone.ttf') format('truetype'),
+         url('../fonts/bjorn/bjorn_halftone.svg#bjornhalftone') format('svg');
+}
+
+@font-face {
+    font-family: 'bjorn-light';
+    src: url('../fonts/bjorn/bjorn_light.woff2') format('woff2'),
+         url('../fonts/bjorn/bjorn_light.woff') format('woff'),
+         url('../fonts/bjorn/bjorn_light.ttf') format('truetype'),
+         url('../fonts/bjorn/bjorn_light.svg#bjornlight') format('svg');
+}
+
+@font-face {
+    font-family: 'bjorn';
+    src: url('../fonts/bjorn/bjorn_regular.woff2') format('woff2'),
+         url('../fonts/bjorn/bjorn_regular.woff') format('woff'),
+         url('../fonts/bjorn/bjorn_regular.ttf') format('truetype'),
+         url('../fonts/bjorn/bjorn_regular.svg#bjornregular') format('svg');
+}
+
+@font-face {
   font-family: 'Ubuntu-Light';
   font-style: normal;
   font-weight: normal;
@@ -56,12 +80,4 @@
     url('../fonts/ubuntu/ubuntu-italic.woff') format('woff'),
     url('../fonts/ubuntu/ubuntu-italic.ttf') format('truetype'),
     url('../fonts/ubuntu/ubuntu-italic.svg#ubuntuitalic') format('svg');
-}
-
-@font-face {
-    font-family: 'Zelda';
-    src: url('../fonts/zelda/zelda.woff2') format('woff2'),
-	 url('../fonts/zelda/zelda.woff') format('woff'),
-	 url('../fonts/zelda/zelda.ttf') format('truetype'),
-	 url('../fonts/zelda/zelda.svg#zeldaregular') format('svg');
 }

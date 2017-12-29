@@ -5,33 +5,37 @@
 
 .el2030 {
 	background: url("../imgs/projects/2030/splash.jpg") no-repeat;
+	background-position: center;
 	background-size: cover;
 }
 
 .catastrophe {
 	background: url("../imgs/projects/catastrophe/splash.jpg") no-repeat;
+	background-position: center;
 	background-size: cover;
 }
 
 .kresgo {
 	background: url("../imgs/projects/kresgo/splash.jpg") no-repeat;
+	background-position: center;
 	background-size: cover;
 }
 
 .halo {
 	background: url("../imgs/projects/halo/splash.jpg") no-repeat;
+	background-position: center;
 	background-size: cover;
 }
 
 .spartahack {
 	background: url("../imgs/projects/spartahack/splash.jpg") no-repeat;
+	background-position: center;
 	background-size: cover;
-	background-position: center top;
-	height: 20vh;
 }
 
 .videno {
 	background: url("../imgs/projects/videno/splash.jpg") no-repeat;
+	background-position: center;
 	background-size: cover;
 }
 
