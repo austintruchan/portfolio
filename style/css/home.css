@@ -1,5 +1,5 @@
 .name {
-	margin-bottom: 50px;
+	margin-bottom: 5%;
 }
 
 .name img {
@@ -18,11 +18,11 @@
 }
 
 .intro {
-	margin-bottom: 50px;
+	margin-bottom: 10%;
 }
 
 .intro-action {
-	margin-bottom: 110px;
+	margin-bottom: 20%;
 }
 
 
@@ -36,7 +36,7 @@
 	}
 	.name-small {
 		display: block;
-		margin-bottom: 50px;
+		margin-bottom: 10%;
 	}
 	.rwd-break {
 		display: none;

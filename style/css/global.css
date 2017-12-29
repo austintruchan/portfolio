@@ -12,7 +12,7 @@ body {
 .frame {
 	margin: 0 auto;
 	max-width: 800px;
-	padding: 10%;
+	padding: 11% 10% 10% 10%;
 }
 
 h1 {
@@ -37,15 +37,15 @@ a {
 }
 
 p {
-	font-family: 'Ubuntu-light', sans-serif;
-	font-size: 14px;
-	line-height: 28px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 15px;
+	line-height: 30px;
 	margin: 0;
 }
 
 span {
 	font-family: 'Ubuntu-Medium', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 span.underline {
@@ -103,17 +103,15 @@ span.underline {
 	padding: 0 3px 10px 3px;
 }
 
-.spacer {
-	margin-bottom: 10%;
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
+@media screen and (max-width: 450px){
+	.frame {
+		padding: 9% 5%;
+	}
 }
 
-.spacer2 {
-	margin-bottom: 20%;
-}
-
-.force-gpu {
-    transform: translateZ(0);
-    transform: rotateZ(360deg);
-    will-change: transform;
-}
 

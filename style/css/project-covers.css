@@ -1,0 +1,25 @@
+.project-cover {
+	height: 100%;
+	padding: 8%;
+}
+
+.2030 {
+	background: url("../imgs/projects/2030/splash.jpg") no-repeat;
+	background-size: cover;
+}
+
+.catastrophe {
+	background: url("../imgs/projects/catastrophe/splash.jpg") no-repeat;
+	background-size: cover;
+}
+
+.kresgo {
+	background: url("../imgs/projects/kresgo/splash.jpg") no-repeat;
+	background-size: cover;
+}
+
+.halo {
+	background: url("../imgs/projects/halo/splash.jpg") no-repeat;
+	background-size: cover;
+}
+

@@ -23,10 +23,9 @@
 					<li><a href="-work.php" class="link-list">Work</a></li>
 					<li><a href="-about.php" class="link-list active">About</a></li></ul></nav>
 					
-					<h1>Hello!</h1>
-					<h2>Thanks for stopping by!</h2>
+					<h2>Hey there! Thanks for stopping by.</h2>
 				
-			<p class="about">I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I enjoy creating elegant, delightful works that put usability and accessiblity first. If you're interested in working together, <span>I’m currently on the lookout for new projects,</span> so please feel free to get in touch!</p><br>
+			<p class="about">I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I enjoy creating elegant, delightful works that put usability and accessiblity first. I am also pretty obsessed with dystopic scifi genres, and the clash of geometric and organic forms. If you're interested in working together <span>(I’m currently on the lookout for new projects)</span>, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p><br><br>
 			
 			<a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines...." class="link-action">austintruchan@me.com</a>
 			<a href="../style/imgs/AustinTruchan-Resume.pdf" class="link-action" target="_blank">View Resume</a>
