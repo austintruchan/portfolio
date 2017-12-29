@@ -23,6 +23,13 @@
 	background-size: cover;
 }
 
+.spartahack {
+	background: url("../imgs/projects/spartahack/splash.jpg") no-repeat;
+	background-size: cover;
+	background-position: center top;
+	height: 20vh;
+}
+
 .videno {
 	background: url("../imgs/projects/videno/splash.jpg") no-repeat;
 	background-size: cover;

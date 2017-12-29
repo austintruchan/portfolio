@@ -33,7 +33,7 @@
 			<div class="tiles"><ul>
 					<li class="tile"><a href="pages/halo.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/halo.png"/></a></li>
 					<li class="tile"><a href="pages/2030.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/2030.png"/></a></li>
-					<li class="tile"><a href="pages/kresgo.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/kresgo.png"/></a></li>
+					<li class="tile"><a href="pages/spartahack.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/spartahack.png"/></a></li>
 					<li class="tile"><a href="pages/catastrophe.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/catastrophe.png"/></a></li>
 					<li class="tile"><a href="pages/videno.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/videno.png"/></a></li>
 					<div class="view-all-work"><div><a href="pages/-work.php" class="link-action">View All Work</a></div></div></ul></div>

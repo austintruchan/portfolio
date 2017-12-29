@@ -38,27 +38,8 @@
 			
 			<div class="tiles">
 				<ul>
-					<li class="tile"><a href="videno.php"><div class="overlay"></div><img src="../style/imgs/tiles/videno.png"/></a></li>
-					<li class="tile"><a href="halo.php"><div class="overlay"></div><img src="../style/imgs/tiles/halo.png"/></a></li>
-					<li class="tile"><a href="2030.php"><div class="overlay"></div><img src="../style/imgs/tiles/2030.png"/></a></li>
-					<li class="tile"><a href="kresgo.php"><div class="overlay"></div><img src="../style/imgs/tiles/kresgo.png"/></a></li>
-					<li class="tile"><a href="catastrophe.php"><div class="overlay"></div><img src="../style/imgs/tiles/catastrophe.png"/></a></li>
-					<li class="tile"><a href="#"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman.png"/></a></li>
-					<li class="tile"><a href="halo.php"><div class="overlay"></div><img src="../style/imgs/tiles/halo.png"/></a></li>
-					<li class="tile"><a href="2030.php"><div class="overlay"></div><img src="../style/imgs/tiles/2030.png"/></a></li>
-					<li class="tile"><a href="kresgo.php"><div class="overlay"></div><img src="../style/imgs/tiles/kresgo.png"/></a></li>
-					<li class="tile"><a href="catastrophe.php"><div class="overlay"></div><img src="../style/imgs/tiles/catastrophe.png"/></a></li>
-					<li class="tile"><a href="#"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman.png"/></a></li>
-					<li class="tile"><a href="halo.php"><div class="overlay"></div><img src="../style/imgs/tiles/halo.png"/></a></li>
-					<li class="tile"><a href="2030.php"><div class="overlay"></div><img src="../style/imgs/tiles/2030.png"/></a></li>
-					<li class="tile"><a href="kresgo.php"><div class="overlay"></div><img src="../style/imgs/tiles/kresgo.png"/></a></li>
-					<li class="tile"><a href="catastrophe.php"><div class="overlay"></div><img src="../style/imgs/tiles/catastrophe.png"/></a></li>
-					<li class="tile"><a href="#"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman.png"/></a></li>
-					<li class="tile"><a href="halo.php"><div class="overlay"></div><img src="../style/imgs/tiles/halo.png"/></a></li>
-					<li class="tile"><a href="2030.php"><div class="overlay"></div><img src="../style/imgs/tiles/2030.png"/></a></li>
-					<li class="tile"><a href="kresgo.php"><div class="overlay"></div><img src="../style/imgs/tiles/kresgo.png"/></a></li>
-					<li class="tile"><a href="catastrophe.php"><div class="overlay"></div><img src="../style/imgs/tiles/catastrophe.png"/></a></li>
-					<li class="tile"><a href="#"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman.png"/></a></li></ul></div>
+					<li class="tile"><a href="spartahack.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/spartahack.png"/></a></li>
+					</ul></div>
 
 			<div class="blob-frame">
 				<div class='blob -one'></div>
