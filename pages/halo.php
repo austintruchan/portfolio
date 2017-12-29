@@ -23,7 +23,7 @@
 			
 			<?php include '../includes/navigation.php'; ?>
 			
-			<div class="project-frame">
+			<div class="project-frame" id="<>">
 				
 				<div class="project-cover halo">
 					<h1>Halo Coffee</h1>

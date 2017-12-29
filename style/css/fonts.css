@@ -57,3 +57,11 @@
     url('../fonts/ubuntu/ubuntu-italic.ttf') format('truetype'),
     url('../fonts/ubuntu/ubuntu-italic.svg#ubuntuitalic') format('svg');
 }
+
+@font-face {
+    font-family: 'Zelda';
+    src: url('../fonts/zelda/zelda.woff2') format('woff2'),
+	 url('../fonts/zelda/zelda.woff') format('woff'),
+	 url('../fonts/zelda/zelda.ttf') format('truetype'),
+	 url('../fonts/zelda/zelda.svg#zeldaregular') format('svg');
+}

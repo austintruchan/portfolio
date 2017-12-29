@@ -23,11 +23,11 @@
 			
 			<?php include '../includes/navigation.php'; ?>
 			
-			<div class="project-frame">
+			<div class="project-frame" id="<>">
 				
-				<div class="project-cover 2030">
-					<h1 class="white">Kresgo</h1>
-					<h2 class="white">Large Scale Interactive Display</h2></div>
+				<div class="project-cover el2030">
+					<h1>EL2030</h1>
+					<h2>Kinetic Branding Identity System</h2></div>
 				
 				<div class="project-content">
 			

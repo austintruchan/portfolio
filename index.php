@@ -31,11 +31,11 @@
 			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines..." class="link-action"> Let's Work Together</a><a href="pages/-about.php" class="link-action">Learn More</a></div>
 			
 			<div class="tiles"><ul>
-					<li class="tile"><a href="pages/halo.php"><div class="overlay"></div><img src="style/imgs/tiles/halo-tile.png"/></a></li>
-					<li class="tile"><a href="pages/2030.php"><div class="overlay"></div><img src="style/imgs/tiles/2030-tile.png"/></a></li>
-					<li class="tile"><a href="pages/kresgo.php"><div class="overlay"></div><img src="style/imgs/tiles/kresgo-tile.png"/></a></li>
-					<li class="tile"><a href="pages/catastrophe.php"><div class="overlay"></div><img src="style/imgs/tiles/catastrophe-tile.png"/></a></li>
-					<li class="tile"><a href="#"><div class="overlay"></div><img src="style/imgs/tiles/eisenman-tile.png"/></a></li>
+					<li class="tile"><a href="pages/halo.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/halo.png"/></a></li>
+					<li class="tile"><a href="pages/2030.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/2030.png"/></a></li>
+					<li class="tile"><a href="pages/kresgo.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/kresgo.png"/></a></li>
+					<li class="tile"><a href="pages/catastrophe.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/catastrophe.png"/></a></li>
+					<li class="tile"><a href="pages/videno.php#<>"><div class="overlay"></div><img src="style/imgs/tiles/videno.png"/></a></li>
 					<div class="view-all-work"><div><a href="pages/-work.php" class="link-action">View All Work</a></div></div></ul></div>
 		
 			<?php include 'includes/footer.php'; ?></div>

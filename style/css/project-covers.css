@@ -3,7 +3,7 @@
 	padding: 8%;
 }
 
-.2030 {
+.el2030 {
 	background: url("../imgs/projects/2030/splash.jpg") no-repeat;
 	background-size: cover;
 }
@@ -20,6 +20,11 @@
 
 .halo {
 	background: url("../imgs/projects/halo/splash.jpg") no-repeat;
+	background-size: cover;
+}
+
+.videno {
+	background: url("../imgs/projects/videno/splash.jpg") no-repeat;
 	background-size: cover;
 }
 
