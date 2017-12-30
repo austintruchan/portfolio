@@ -8,10 +8,12 @@
 
 .project-cover h1 {
 	margin-bottom: 0;
+	color:  #FFF;
 }
 
 .project-cover h2 {
 	line-height: 30px;
+	color: #FFF;
 }
 
 .back {
@@ -61,8 +63,8 @@ a.link-inline:hover {
 	padding-bottom: 3px;
 }
 
-.white {
-	color: #FFF;
+.dark {
+	color: #131D38 !important;
 }
 
 .no-top {
@@ -82,6 +84,7 @@ a.link-inline:hover {
 .lightbox {
 	background: rgba(14,21,41,0.9);
 	bottom: 0;
+	cursor: pointer;
 	display: none;
 	height: 100%;
 	left: 0;

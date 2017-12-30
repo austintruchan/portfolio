@@ -4,7 +4,7 @@
 	    <?php include '../includes/head.php'; ?>
 	    <title>Austin Truchan. Glitch Motion.</title>
 	    <link rel="manifest" href="../site.webmanifest">
-        <link rel="apple-touch-icon" href="../style/img/icon.png">
+        <link rel="apple-touch-icon" href="../apple-touch-icon.png">
         <link rel="stylesheet" href="../style/css/normalize.css">
         <link rel="stylesheet" href="../style/css/main.css">
         <link rel="stylesheet" href="../style/css/fonts.css">
@@ -27,8 +27,8 @@
 				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 				
 				<div class="project-cover glitch">
-					<h1 class="white">Glitch Motion</h1>
-					<h2 class="white">Expiremental Motion Design.</h2></div>
+					<h1>Glitch Motion</h1>
+					<h2>Expiremental Motion Design.</h2></div>
 				
 				<div class="project-content">
 					

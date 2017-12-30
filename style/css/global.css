@@ -18,12 +18,8 @@ body {
 h1 {
 	font-family: "Ubuntu-Medium-Italic", sans-serif;
 	font-size: 50px;
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-	-ms-hyphens: auto;
-	hyphens: auto;
 	line-height: 60px;
-	word-break: break-all;
+	word-break: keep-all;
 }
 
 h2 {
@@ -42,8 +38,8 @@ a {
 }
 
 p {
-	font-family: 'Ubuntu-Light', sans-serif;
-	font-size: 15px;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
 	line-height: 30px;
 	margin: 0;
 }
@@ -100,6 +96,7 @@ span.underline {
 	margin: 0 40px 0 0;
 	padding: 0 3px 5px 3px;
 	transition: all .2s ease;
+	white-space: nowrap;
 }
 
 .link-action:hover {

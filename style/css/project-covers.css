@@ -57,6 +57,12 @@
 	background-size: cover;
 }
 
+.shc {
+	background: url("../imgs/projects/shc/splash.jpg") no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
 .traveler {
 	background: url("../imgs/projects/traveler/splash.jpg") no-repeat;
 	background-position: center top;
