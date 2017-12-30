@@ -9,7 +9,6 @@
         <link rel="stylesheet" href="../style/css/main.css">
         <link rel="stylesheet" href="../style/css/fonts.css">
         <link rel="stylesheet" href="../style/css/global.css">
-		<link rel="stylesheet" href="../style/css/blobs.css">
 		<link rel="stylesheet" href="../style/css/bg.css">
         <link rel="stylesheet" href="../style/css/navigation.css">
         <link rel="stylesheet" href="../style/css/tiles.css">
@@ -29,7 +28,7 @@
 			<div class="tiles">
 				<ul>
 					<li class="tile"><a href="halo.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/halo/tile.png"/></a></li>
-					<li class="tile"><a href="2030.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/2030/tile.png"/></a></li>
+					<li class="tile"><a href="spheres.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/spheres/tile.gif"/></a></li>
 					<li class="tile"><a href="kresgo.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/kresgo/tile.png"/></a></li>
 					<li class="tile"><a href="catastrophe.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/catastrophe/tile.png"/></a></li>
 					<li class="tile"><a href="videno.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/videno/tile.png"/></a></li></ul></div>
@@ -38,6 +37,7 @@
 			
 			<div class="tiles">
 				<ul>
+					<li class="tile"><a href="2030.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/2030/tile.png"/></a></li>
 					<li class="tile"><a href="adapt.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/adapt/tile.png"/></a></li>
 					<li class="tile"><a href="glitch.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/glitch/tile.png"/></a></li>
 					<li class="tile"><a href="uuraf.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/uuraf/tile.png"/></a></li>

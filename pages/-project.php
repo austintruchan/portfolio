@@ -62,7 +62,7 @@
 			<div class='blob -one'></div>
 			<div class='blob -two'></div></div>
 		
-			
 		<?php include '../includes/foot.php'; ?>
+		
 	</body>
 </html>
