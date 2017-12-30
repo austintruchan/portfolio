@@ -32,7 +32,8 @@
 				
 				<div class="project-content">
 					
-					<p>This project was an exploration into what you can do with instagram's multi layout photo posts. It was also an experimentation of color and gradients, as well as figuring out several new techniques with after effects. The biggest achievement was the discovery of how to create a glitch motion on the most forefront element within after effects, without effecting the elements within the background. In the end, I was able to figure out how to create three separate videos, that when laid side by side, seemed as they were one, thanks to instagram's side by side, multi photo posts.</br></br><a href="https://www.instagram.com/p/BUDOvupBzd9/?taken-by=austintruchan" target="_blank" class="link-inline">View on Instagram</a></p>
+					<p>This project was an exploration into what you can do with instagram's multi layout photo posts. It was also an experimentation of color and gradients, as well as figuring out several new techniques within after effects. The biggest achievement was the discovery of how to create glitch motion on the most forefront element within after effects, without effecting the elements within the background. In the end, I was able to figure out how to create three separate videos, that when laid side by side, seemed as they were one, thanks to instagram's side by side, multi photo posts.</br></br> I would highly recommend <a href="https://www.instagram.com/p/BUDOvupBzd9/?taken-by=austintruchan" target="_blank" class="link-inline">Viewing on Instagram</a> on your mobile device.</p>
+					
 					
 					<a href="#img1"><img src="../style/imgs/projects/spheres/1.gif"/></a>
 					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/spheres/1.gif"></a>

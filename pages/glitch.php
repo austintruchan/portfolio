@@ -51,7 +51,7 @@
 						<iframe src="https://www.youtube.com/embed/gfk6aKYDvxw" frameborder="0" allowfullscreen></iframe></div>
 						
 					<h2>Space!</h2>
-					<p>This realistic space scene featured in RealizeIII, was built entirely from scratch within After Effects.</p>
+					<p>I build this realistic space scene entirely from scratch within After Effects. It is featured in RealizeIII, the first video on this page.</p>
 					
 					<div class="video-wrapper">
 						<iframe src="https://www.youtube.com/embed/OSpZezVVEIA" frameborder="0" allowfullscreen></iframe></div>
