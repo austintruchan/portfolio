@@ -105,6 +105,11 @@ span.underline {
 	padding: 0 3px 10px 3px;
 }
 
+.link-frame {
+	margin-top: 30px;
+	display: inline-block;
+}
+
 
 /* ==========================================================================
    Responsiveness
