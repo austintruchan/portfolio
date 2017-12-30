@@ -39,6 +39,10 @@
 			<div class="tiles">
 				<ul>
 					<li class="tile"><a href="adapt.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/adapt.png"/></a></li>
+					<li class="tile"><a href="glitch.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/glitch.png"/></a></li>
+					<li class="tile"><a href="uuraf.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/uuraf.png"/></a></li>
+					<li class="tile"><a href="creative-progress.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/creative-progress.png"/></a></li>
+					<li class="tile"><a href="traveler.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/traveler.png"/></a></li>
 					<li class="tile"><a href="spartahack.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/spartahack.png"/></a></li>
 					<li class="tile"><a href="eisenman.php#<>"><div class="overlay"></div><img src="../style/imgs/tiles/eisenman.png"/></a></li>
 					</ul></div>

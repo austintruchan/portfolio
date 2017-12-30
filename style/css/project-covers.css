@@ -21,8 +21,20 @@
 	background-size: cover;
 }
 
+.creative-progress {
+	background: url("../imgs/projects/creative-progress/splash.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
 .eisenman {
 	background: url("../imgs/projects/eisenman/splash.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.glitch {
+	background: url("../imgs/projects/glitch/splash.jpg") no-repeat;
 	background-position: center;
 	background-size: cover;
 }
@@ -41,6 +53,18 @@
 
 .spartahack {
 	background: url("../imgs/projects/spartahack/splash.jpg") no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.traveler {
+	background: url("../imgs/projects/traveler/splash.jpg") no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.uuraf {
+	background: url("../imgs/projects/uuraf/splash.jpg") no-repeat;
 	background-position: center top;
 	background-size: cover;
 }

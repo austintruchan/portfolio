@@ -22,6 +22,7 @@
 		<div class="frame">
 			
 			<?php include '../includes/navigation.php'; ?>
+				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 			
 			<div class="project-frame" id="<>">
 				

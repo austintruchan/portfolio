@@ -24,6 +24,7 @@
 			<?php include '../includes/navigation.php'; ?>
 			
 			<div class="project-frame" id="<>">
+				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 				
 				<div class="project-cover halo">
 					<h1>Halo Coffee</h1>
