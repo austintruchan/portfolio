@@ -51,7 +51,6 @@
 				</div></div>
 				
 			<?php include '../includes/navigation.php'; ?>
-
 			<?php include '../includes/featured.php'; ?>
 			<?php include '../includes/footer.php'; ?>
 		

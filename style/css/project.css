@@ -71,8 +71,8 @@ a.link-inline:hover {
 	margin-top: 0 !important;
 }
 
-.project-content img, .contain{
-	box-shadow: 0 20px 30px 0 rgba(19, 29, 56, .15);
+.project-content img{
+	box-shadow: 0 20px 30px 0 rgba(19, 29, 56, .07);
 	margin: 5% 0;
 	width: 100%;
 }

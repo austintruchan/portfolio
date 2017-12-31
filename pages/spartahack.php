@@ -25,12 +25,12 @@
 				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 				
 				<div class="project-cover spartahack">
-					<h1 class="dark">SpartaHack17</h1>
-					<h2 class="dark">Brand design for the hackathon, SpartaHack.</h2></div>
+					<h1>SpartaHack17</h1>
+					<h2>Hackathon Identity Design</h2></div>
 				
 				<div class="project-content">
 					
-					<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>SpartaHack is a 36-hour programming marathon and competition held at Michigan State University. For SpartaHack 17, I was ask to design the brand for hackathon event. The concept is is inspired by a digital utopian dream, and is based around a digital, spartan shield. The identity contains four modular pieces that can be added or subtracted based on it's container. Starting with the code emblem in the middle of the shield, the shield itself, the shield frames, and then the vines that grow from this framing. The project also included designing the hackathon's website, which can be viewed at<a href="https://17.spartahack.com" target="_blank" class="link-inline">17.spartahack.com</a>.</p>
 					
 					<a href="#img1"><img class="no-shadow" src="../style/imgs/projects/spartahack/1.png"/></a>
 					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/spartahack/1.png"></a>
@@ -41,7 +41,8 @@
 					<a href="#img3"><img src="../style/imgs/projects/spartahack/3.jpg"/></a>
 					<a onclick="goBack()" class="lightbox" id="img3"><img src="../style/imgs/projects/spartahack/3.jpg"></a>
 					
-					<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<a href="https://17.spartahack.com" target="_blank" class="link-inline">17.spartahack.com</a></p>
+					<a href="#img4"><img class="no-shadow" src="../style/imgs/projects/spartahack/4.png"/></a>
+					<a onclick="goBack()" class="lightbox" id="img4"><img src="../style/imgs/projects/spartahack/4.png"></a>
 			
 			</div></div>
 

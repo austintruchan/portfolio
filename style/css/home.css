@@ -31,7 +31,7 @@
    Responsiveness
    ========================================================================== */
    
-@media screen and (max-width: 760px){
+@media screen and (max-width: 750px){
 	.name {
 		display: none;
 	}
@@ -40,16 +40,23 @@
 		margin-bottom: 5%;
 	}
 	.intro {
-  	white-space: normal;
+  		white-space: normal;
 	}
 	.rwd-break {
 		display: none;
 	}
 }
 
+@media screen and (max-width: 550px){
+  .intro {
+		font-size: 20px;
+		line-height: 30px;
+		}
+}
+
 @media screen and (max-width: 350px){
   .name-small img {
-  	width: 100%;
-  	min-width: auto;
+  		width: 100%;
+  		min-width: auto;
   }
 }
