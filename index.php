@@ -32,7 +32,7 @@
 			
 			<div class="tiles"><ul>
 					<li class="tile"><a href="pages/halo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/halo/tile.png"/></a></li>
-					<li class="tile"><a href="pages/spheres.php#<>"><div class="overlay"></div><img src="style/imgs/projects/spheres/tile.gif"/></a></li>
+					<li class="tile"><a href="pages/spheres.php#<>"><div class="overlay"></div><img src="style/imgs/projects/spheres/tile.png"/></a></li>
 					<li class="tile"><a href="pages/kresgo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/kresgo/tile.png"/></a></li>
 					<li class="tile"><a href="pages/catastrophe.php#<>"><div class="overlay"></div><img src="style/imgs/projects/catastrophe/tile.png"/></a></li>
 					<li class="tile"><a href="pages/videno.php#<>"><div class="overlay"></div><img src="style/imgs/projects/videno/tile.png"/></a></li>

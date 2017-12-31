@@ -21,18 +21,16 @@
 		
 		<div class="frame">
 			
-			<?php include '../includes/navigation.php'; ?>
-			
 			<div class="project-frame" id="<>">
 				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 				
 				<div class="project-cover eisenman">
 					<h1>Eisenman</h1>
-					<h2>Expiremental 3D Poster on Peter Eisenman</h2></div>
+					<h2>Expiremental 3D Poster on Peter Eisenman.</h2></div>
 				
 				<div class="project-content">
 					
-					<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>Allowing architecture to inspire an interactive and informative, three dimensional poster that seeks ways to incorporate type and image in a seamless manner, whilst representing the work and style of architect, Peter Eisenman.</p>
 					
 					<a href="#img1"><img class="no-shadow" src="../style/imgs/projects/eisenman/1.png"/></a>
 					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/eisenman/1.png"></a>
@@ -57,6 +55,7 @@
 			
 			</div></div>
 
+			<?php include '../includes/navigation.php'; ?>
 			<?php include '../includes/featured.php'; ?>
 			<?php include '../includes/footer.php'; ?>
 		</div>

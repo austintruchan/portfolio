@@ -21,8 +21,6 @@
 		
 		<div class="frame">
 			
-			<?php include '../includes/navigation.php'; ?>
-			
 			<div class="project-frame" id="<>">
 				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 				
@@ -32,7 +30,7 @@
 				
 				<div class="project-content">
 					
-					<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>Yep. Thats pretty much it. Simply playing around with a fancy futuristic looking font, some simple shapes and drop-shadowing, and a couple contrasting colors. And of course glitching the hell out out of it.</p>
 					
 					<a href="#img1"><img src="../style/imgs/projects/catastrophe/1.png"/></a>
 					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/catastrophe/1.png"></a>
@@ -50,7 +48,8 @@
 					<a onclick="goBack()" class="lightbox" id="img5"><img src="../style/imgs/projects/catastrophe/5.png"></a>
 			
 			</div></div>
-
+			
+			<?php include '../includes/navigation.php'; ?>
 			<?php include '../includes/featured.php'; ?>
 			<?php include '../includes/footer.php'; ?>
 		</div>

@@ -21,8 +21,6 @@
 		
 		<div class="frame">
 			
-			<?php include '../includes/navigation.php'; ?>
-			
 			<div class="project-frame" id="<>">
 				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 				
@@ -47,6 +45,7 @@
 			
 			</div></div>
 
+			<?php include '../includes/navigation.php'; ?>
 			<?php include '../includes/featured.php'; ?>
 			<?php include '../includes/footer.php'; ?>
 		</div>
