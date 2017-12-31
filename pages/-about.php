@@ -28,16 +28,12 @@
 			<p class="about">Thanks for stopping by. I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I can also hold my own pretty well as a frontend developer. I enjoy creating elegant, delightful interfaces that put usability and accessiblity first. I am also pretty obsessed with dystopic scifi genres, and the clash of geometric and organic forms.<br><br><span>I’m currently on the lookout for new projects!</span> If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
 			
 			<div class="link-frame">
-			<a href="mailto:austintruchan@me.com?&subject=Let's%20Work%20Together!&body=Listen, I love what you got kid, and I wanna hire ya... Or something along those lines...." class="link-action">austintruchan@me.com</a></div>
+			<a href="mailto:austintruchan@me.com?&subject=Hey Austin! ✌🏻&body=Hiya! So.... whats up?" class="link-action">austintruchan@me.com</a></div>
 			
 			<div class="link-frame">
 			<a href="../style/imgs/AustinTruchan-Resume.pdf" class="link-action" target="_blank">View Resume</a></div>
 			
-						
-
-		
-			<?php include '../includes/footer.php'; ?>
-		</div>
+			<?php include '../includes/footer.php'; ?></div>
 		
 		<div class="blob-frame">
 				<div class='blob -one'></div>

@@ -47,13 +47,13 @@
 					<li class="tile"><a href="spartahack.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/spartahack/tile.png"/></a></li>
 					<li class="tile"><a href="eisenman.php#<>"><div class="overlay"></div><img src="../style/imgs/projects/eisenman/tile.png"/></a></li>
 					</ul></div>
+					
+					<?php include '../includes/footer.php'; ?></div>
 
 			<div class="blob-frame">
 				<div class='blob -one'></div>
 				<div class='blob -two'></div></div>
 
-			<?php include '../includes/footer.php'; ?></div>
-			
 		<?php include '../includes/foot.php'; ?>
 		
 	</body>

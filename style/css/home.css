@@ -19,6 +19,7 @@
 
 .intro {
 	margin-bottom: 10%;
+	white-space: nowrap;
 }
 
 .intro-action {
@@ -36,9 +37,19 @@
 	}
 	.name-small {
 		display: block;
-		margin-bottom: 10%;
+		margin-bottom: 5%;
+	}
+	.intro {
+  	white-space: normal;
 	}
 	.rwd-break {
 		display: none;
 	}
+}
+
+@media screen and (max-width: 350px){
+  .name-small img {
+  	width: 100%;
+  	min-width: auto;
+  }
 }
