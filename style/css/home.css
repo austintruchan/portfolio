@@ -5,6 +5,11 @@
 .name img {
 	height: auto;
 	width: 100%;
+	transition: all 1s ease;
+}
+
+.name img:hover {
+	filter: drop-shadow(0 0px 5px rgba(255,255,255,.7));
 }
 
 .name-small {

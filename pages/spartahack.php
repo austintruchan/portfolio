@@ -32,7 +32,7 @@
 				
 				<div class="project-content">
 					
-					<p>SpartaHack is a 36-hour programming marathon and competition held at Michigan State University. For SpartaHack 17, I was ask to design the brand for hackathon event. The concept is is inspired by a digital utopian dream, and is based around a digital, spartan shield. The identity contains four modular pieces that can be added or subtracted based on it's container. Starting with the code emblem in the middle of the shield, the shield itself, the shield frames, and then the vines that grow from this framing. The project also included designing the hackathon's website, which can be viewed at<a href="https://17.spartahack.com" target="_blank" class="link-inline">17.spartahack.com</a>.</p>
+					<p>SpartaHack is a 36-hour programming marathon and competition held at Michigan State University. For SpartaHack 17, I was ask to design the brand for hackathon event. The concept is is inspired by a digital utopian dream, and is based around a digital, spartan shield. The identity contains four modular pieces that can be added or subtracted based on it's container. Starting with the code emblem in the middle of the shield, the shield itself, the shield frames, and then the vines that grow from this framing. The project also included designing the hackathon's website, which can be viewed at <a href="https://17.spartahack.com" target="_blank" class="link-inline">17.spartahack.com</a>.</p>
 					
 					<a href="#img1"><img class="no-shadow" src="../style/imgs/projects/spartahack/1.png"/></a>
 					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/spartahack/1.png"></a>

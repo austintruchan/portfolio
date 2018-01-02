@@ -38,7 +38,7 @@
 					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/kresgo/kresgo-real.jpg"></a>
 					
 					<h2>Process.</h2>
-					<p>The project began by creating a user map of all the users that may come into contact with an interactive Kresge display and the information that each user would need. After that we came up with a<a class="link-inline" href="#img2" class="link">user scenario.</a> We then practiced a form of analog wireframing and prototyping through a Paper Prototyping technique.</p>
+					<p>The project began by creating a user map of all the users that may come into contact with an interactive Kresge display and the information that each user would need. After that we came up with a <a class="link-inline" href="#img2" class="link">user scenario.</a> We then practiced a form of analog wireframing and prototyping through a Paper Prototyping technique.</p>
 					
 					<a onclick="goBack()" class="lightbox link" id="img2"><img src="../style/imgs/projects/kresgo/kresgo-userScenario.png">
 					
