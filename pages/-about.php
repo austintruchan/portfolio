@@ -23,12 +23,12 @@
 					<li><a href="-work.php" class="link-list">Work</a></li>
 					<li><a href="-about.php" class="link-list active">About</a></li></ul></nav>
 					
-					<h2>Hey there! 👋🏻</h2>
+					<h1>Hello.</h1>
 				
-			<p class="about">Thanks for stopping by. I’m Austin Truchan, a Digital Designer based in Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from logos, to icons and product illustrations. I can also hold my own pretty well as a frontend developer. I enjoy creating elegant, delightful interfaces that put usability and accessiblity first. I am also pretty obsessed with dystopic scifi genres, and the clash of geometric and organic forms.<br><br><span>I’m currently on the lookout for new projects!</span> If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
+			<p class="about">I’m Austin Truchan, a Digital Designer currently residing in East Lansing, Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from frontend development, to logo/icon design, to experimental graphic design. I am also rather obsessed with dystopic scifi genres, and the clash of geometric and organic forms.<br><br><span>I’m currently on the lookout for new projects!</span> If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
 			
 			<div class="link-frame">
-			<a href="mailto:austintruchan@me.com?&subject=Hey Austin! ✌🏻&body=Hiya! So.... whats up?" class="link-action">austintruchan@me.com</a></div>
+			<a href="mailto:austintruchan@me.com?&subject=Hello.&body=So.... whats up?" class="link-action">austintruchan@me.com</a></div>
 			
 			<div class="link-frame">
 			<a href="../style/imgs/AustinTruchan-Resume.pdf" class="link-action" target="_blank">View Resume</a></div>

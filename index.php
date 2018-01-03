@@ -28,7 +28,7 @@
 			
 			<h2 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan. <br class="rwd-break">I specialize in UI/UX, Interaction & Web Design. <br class="rwd-break">I am the Director of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h2>
 						
-			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hey Austin! ✌🏻&body=Let's here your ideas!" class="link-action"> Let's Work Together</a><a href="pages/-about.php" class="link-action">Learn More</a></div>
+			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hey Austin!&body=Let's here your ideas!" class="link-action"> Let's Work Together</a><a href="pages/-about.php" class="link-action">Learn More</a></div>
 			
 			<div class="tiles"><ul>
 					<li class="tile"><a href="pages/halo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/halo/tile.png"/></a></li>

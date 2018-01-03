@@ -19,34 +19,35 @@
 	
 	<body>
 		
-		<div class="frame">
+		<div class="project-frame">
+			<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
 			
-			<?php include '../includes/navigation.php'; ?>
-			
-			<div class="project-frame" id="<>">
-				<div class="back" onclick="goBack()"><img src="../style/imgs/x.svg"/></div>
-				
-				<div class="project-cover uuraf">
+			<div class="project-cover uuraf">
+				<div class="project-cover-content">
 					<h1>uuraf</h1>
-					<h2>Poster Design.</h2></div>
+					<h2>Poster Design.</h2></div></div>
+			
+			<div class="project-content">
 				
-				<div class="project-content">
-					
-					<p>The annual University Undergraduate Research and Arts Forum (UURAF) provides Michigan State undergraduate students with an opportunity to showcase their scholarship and creative activity. Held each spring in the historic MSU Union, UURAF brings together an intellectual community of highly motivated students to share their work with faculty, peers, and external audiences. UURAF provides a unique educational opportunity for aspiring researchers. MSU undergraduates gain experience in presenting their research, answer questions about their work from audience members and guests, and receive constructive feedback from judges. As an active member of MSU AIGA, we were given the opportunity to design the poster for the 2015 UURAF. You can see my process below for the type treatment.</p>
-					
-					<a href="#img1"><img src="../style/imgs/projects/uuraf/1.jpg"/></a>
-					<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/uuraf/1.jpg"></a>
-												
-					<a href="#img2"><img src="../style/imgs/projects/uuraf/2.jpg"/></a>
-					<a onclick="goBack()" class="lightbox" id="img2"><img src="../style/imgs/projects/uuraf/2.jpg"></a>
-					
-					<a href="#img3"><img class="no-shadow" src="../style/imgs/projects/uuraf/3.jpg"/></a>
-					<a onclick="goBack()" class="lightbox" id="img3"><img src="../style/imgs/projects/uuraf/3.jpg"></a>
+				<p>The annual University Undergraduate Research and Arts Forum (UURAF) provides Michigan State undergraduate students with an opportunity to showcase their scholarship and creative activity. Held each spring in the historic MSU Union, UURAF brings together an intellectual community of highly motivated students to share their work with faculty, peers, and external audiences. UURAF provides a unique educational opportunity for aspiring researchers. MSU undergraduates gain experience in presenting their research, answer questions about their work from audience members and guests, and receive constructive feedback from judges. As an active member of MSU AIGA, we were given the opportunity to design the poster for the 2015 UURAF. You can see my process below for the type treatment.</p>
+				
+				<a href="#img1"><img src="../style/imgs/projects/uuraf/1.jpg"/></a>
+				<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/uuraf/1.jpg"></a>
+											
+				<a href="#img2"><img src="../style/imgs/projects/uuraf/2.jpg"/></a>
+				<a onclick="goBack()" class="lightbox" id="img2"><img src="../style/imgs/projects/uuraf/2.jpg"></a>
+				
+				<a href="#img3"><img class="no-shadow" src="../style/imgs/projects/uuraf/3.jpg"/></a>
+				<a onclick="goBack()" class="lightbox" id="img3"><img src="../style/imgs/projects/uuraf/3.jpg"></a>
 
-			</div></div>
+		</div></div>
 
+		<div class="frame">
+				
+			<?php include '../includes/navigation.php'; ?>
 			<?php include '../includes/featured.php'; ?>
 			<?php include '../includes/footer.php'; ?>
+		
 		</div>
 		
 		<div class="blob-frame">

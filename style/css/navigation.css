@@ -15,9 +15,10 @@ ul.nav li:first-child {
 	margin-top: -5px;
 	transition: all 1s ease;
 }
-
+/*
 .logo:hover {
-	filter: drop-shadow(0 0px 5px rgba(255,255,255,.7));
+	filter: drop-shadow(0 0px 7px rgba(255,255,255,.4));
+	transform: scale(1.03);
 }
 
 
