@@ -1,5 +1,6 @@
 .project-frame {
 	color: #131D38;
+	margin: 1%;
 	background: rgba(255, 255, 255, 1);
 	position: relative;
 }
@@ -136,6 +137,7 @@ iframe {
    
 @media screen and (max-width: 450px){
 	.project-frame {
-		
+		margin: -20% 0 20% -6%;
+		width: 111.5%;
 	}
 }
