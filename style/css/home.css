@@ -20,7 +20,7 @@
 .name-small img {
 	height: auto;
 	width: 70%;
-	min-width: 300px;
+	min-width: 320px;
 	transition: all 1s ease;
 }
 

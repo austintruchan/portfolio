@@ -23,7 +23,7 @@
 					<li><a href="-work.php" class="link-list">Work</a></li>
 					<li><a href="-about.php" class="link-list active">About</a></li></ul></nav>
 					
-					<h1>hello.</h1>
+					<h1>Hello.</h1>
 				
 			<p class="about">I’m Austin Truchan, a Digital Designer currently residing in East Lansing, Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from frontend development, to logo/icon design, to experimental graphic design. I am also rather obsessed with dystopic scifi genres, and the clash of geometric and organic forms.<br><br><span>I’m currently on the lookout for new projects!</span> If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
 			
