@@ -49,6 +49,10 @@
 				
 				<a href="#img5"><img src="../style/imgs/projects/traveler/5.jpg"/></a>
 				<a onclick="goBack()" class="lightbox" id="img5"><img src="../style/imgs/projects/traveler/5.jpg"></a>
+				
+				<div class="video-wrapper">
+					<iframe src="https://player.vimeo.com/video/124256762" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/124256762">National Parks &amp; Universal Design Motion Infographic</a> from <a href="https://vimeo.com/austintruchan">Austin Truchan</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 		
 		</div></div>
 
