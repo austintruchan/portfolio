@@ -4,7 +4,7 @@
 	width: 100vw;
 	position: fixed;
 	top: 0;
-	left: 0;
+	left: 0;  
 	z-index: -1;
 	-webkit-backface-visibility: hidden;
 }
@@ -13,7 +13,7 @@
 	opacity: .5;
 	position: absolute;
 	left: -100vw;
-	background: #1B2A70;
+  background: 	linear-gradient(to bottom, rgba(70,27,112,1) 0%,rgba(27,42,112,1) 100%);
 	width: 150vw;
 	height: 150vw;
 	border-radius: 43%;
@@ -26,7 +26,8 @@
 
 .blob.-two {
 	opacity: 1;
-  animation: blob 30s infinite ease;
+
+  animation: blob 25s infinite linear;
   width: 142vw;
   height: 142vw;
     

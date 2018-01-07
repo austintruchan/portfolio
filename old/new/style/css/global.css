@@ -1,0 +1,134 @@
+html {
+	background: #0E1529;
+	font-family: 'hk-regular', sans-serif;
+	color: #FFF;
+}
+
+body {
+	height: 100%;
+	position: relative;
+}
+
+.frame {
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 11% 10% 10% 10%;
+
+}
+
+h1 {
+	font-family: "hk-bold", sans-serif;
+	font-size: 70px;
+	line-height: .8;
+	text-transform: lowercase;
+	margin: 10px 0 30px;
+	hyphens: auto;
+	-webkit-hyphens: auto;
+	word-break: break-all;
+}
+
+h1 span {
+	font-size: 24px;
+	font-family: "hk-medium", sans-serif;
+}
+
+h2 {
+	font-family: 'hk-medium', sans-serif;
+	font-size: 22px;
+	line-height: 45px;
+	text-transform: lowercase;
+}
+
+h3 {
+	font-family: 'hk-regular', sans-serif;
+	font-size: 22px;
+	line-height: 30px;
+	text-transform: lowercase;
+	margin: 0;
+}
+
+a {
+	font-family: 'hk-medium', sans-serif;
+	text-transform: lowercase;
+}
+
+p {
+	font-family: 'hk-regular', sans-serif;
+	font-size: 18px;
+	line-height: 30px;
+	margin: 0;
+}
+
+span {
+	font-family: inherit;
+	font-size: inherit;
+	text-decoration: underline;
+}
+
+.link {
+	border-bottom: 4px solid transparent;
+	color: #FFF;
+	padding-bottom: : 3px;
+	transition: all .2s ease;
+}
+
+.link:hover {
+	border-bottom: 4px solid #FF3377;
+	color: #FF3377;
+	padding-bottom: 5px;
+}
+
+.link-list {
+	border-bottom: 4px solid transparent;
+	color: #FFF;
+	font-size: 22px;
+	margin: 0 -3px 0 30px;
+	padding: 3px;
+	transition: all .2s ease;
+}
+
+.link-list:hover {
+	border-bottom: 4px solid #FF006A;
+	color: #FF3377;
+	padding-bottom: 8px;
+}
+
+.link-list.active {
+	border-bottom: 4px solid #FF006A;
+	color: #FF006A;
+	padding-bottom: 8px;
+}
+
+.link-action {
+	border-bottom: 4px solid #FF006A;
+	color: #FFF;
+	font-size: 22px;
+	margin: 0 40px 0 0;
+	padding: 0 3px 5px 3px;
+	transition: all .2s ease;
+	white-space: nowrap;
+}
+
+.link-action:hover {
+	border-bottom: 4px solid #FF006A;
+	color: #FF3377;
+	padding: 0 3px 10px 3px;
+}
+
+.link-frame {
+	margin-top: 30px;
+	display: inline-block;
+}
+
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
+@media screen and (max-width: 450px){
+	.frame {
+		padding: 15% 8%;
+	}
+}
+
+

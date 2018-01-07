@@ -1,0 +1,79 @@
+.name {
+	margin-bottom: 5%;
+}
+
+.name img {
+	height: auto;
+	width: 100%;
+	transition: all 1s ease;
+}
+/*
+.name img:hover {
+	filter: drop-shadow(0 0px 5px rgba(255,255,255,.7));
+	transform: scale(1.03);
+}*/
+
+.name-small {
+	display: none;
+}
+
+.name-small img {
+	height: auto;
+	width: 70%;
+	min-width: 300px;
+	transition: all 1s ease;
+}
+
+/*
+.name-small img:hover {
+	filter: drop-shadow(0 0px 7px rgba(255,255,255,.5));
+	transform: scale(1.03);
+}*/
+
+.hello h1 {
+	margin-bottom: 70px;
+}
+
+.intro {
+	margin-bottom: 10%;
+	line-height: 1.7;
+}
+
+.intro-action {
+	margin-bottom: 20%;
+}
+
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
+@media screen and (max-width: 750px){
+	.name {
+		display: none;
+	}
+	.name-small {
+		display: block;
+		margin-bottom: 5%;
+	}
+	.intro {
+  		white-space: normal;
+	}
+	.rwd-break {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 550px){
+  .intro {
+		font-size: 20px;
+		line-height: 30px;
+		}
+}
+
+@media screen and (max-width: 350px){
+  .name-small img {
+  		width: 100%;
+  		min-width: auto;
+  }
+}

@@ -1,0 +1,141 @@
+.project-frame {
+	color: #131D38;
+	background: rgba(255, 255, 255, 1);
+	position: relative;
+}
+
+.project-cover-content {
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+.project-cover h1 {
+	margin-bottom: 0;
+	color:  #FFF;
+}
+
+.project-cover h2 {
+	line-height: 30px;
+	color: #FFF;
+}
+
+.back {
+	align-items: center;
+	background: #0E1529;
+	border-radius: 50%;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	height: 40px;
+	justify-content: center;
+	margin: 18px;
+	width: 40px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 18px;
+	transition: all .2s ease;
+	z-index: 99;
+}
+
+.back:hover {
+	background: #FF3377;
+	transform: scale(1.1) rotate(90deg);
+}
+
+.project-content {
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 4% 8%;
+}
+
+.project-content h2 {
+	margin: 5% 0 -4%;
+}
+
+.project-content p {
+	margin: 5% 0;
+}
+
+a.link-inline {
+	border-bottom: 2px solid rgba(255, 51, 119, 1);
+	/*box-shadow: inset 0 -7px 0 rgba(255, 51, 119, .8);*/
+	color: #FF3377;
+	font-family: 'Ubuntu-Medium-Italic', sans-serif;
+	transition: all .2s ease;
+}
+
+a.link-inline:hover {
+	border-bottom: 2px solid #FF3377;
+	padding-bottom: 3px;
+}
+
+.dark {
+	color: #131D38 !important;
+}
+
+.no-top {
+	margin-top: 0 !important;
+}
+
+.project-content img{
+	box-shadow: 0 20px 30px 0 rgba(19, 29, 56, .07);
+	margin: 5% 0;
+	width: 100%;
+}
+
+.no-shadow {
+	box-shadow: none !important;
+}
+
+.lightbox {
+	background: rgba(14,21,41,0.9);
+	bottom: 0;
+	cursor: pointer;
+	display: none;
+	height: 100%;
+	left: 0;
+	overflow-y: scroll;
+	position: fixed;
+	right: 0;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	 -webkit-overflow-scrolling: touch;
+	z-index: 999;
+}
+
+.lightbox img {
+	margin: 2%;
+	width: 96%;
+}
+
+.lightbox:target {
+	display: block;
+	outline: none;
+}
+
+.video-wrapper {
+	height: 0;
+	margin: 5% 0;
+	position: relative;
+	padding: 0 0 58% 0;
+}
+
+iframe {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
+@media screen and (max-width: 450px){
+	.project-frame {
+		
+	}
+}

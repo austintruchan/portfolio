@@ -1,0 +1,33 @@
+footer {
+	margin-top: 20%;
+}
+
+footer ul {
+	display: -webkit-flex;
+	display: flex;
+}
+
+footer ul li:first-child {
+	margin-right: auto;
+}
+
+
+/* ==========================================================================
+   Responsiveness
+   ========================================================================== */
+   
+@media screen and (max-width: 650px){
+	footer ul {
+		display: block;
+	}
+	
+	footer ul li:nth-last-child(-n+5) {
+		display: inline-block;
+		margin-top: 60px;
+	}
+	
+	footer ul li:nth-last-child(-n+5) a{
+		margin-left: 0;
+		margin-right: 20px;
+	}
+}
