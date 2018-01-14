@@ -1,25 +1,49 @@
 @font-face {
-    font-family: 'bjorn-halftone';
-    src: url('../fonts/bjorn/bjorn_halftone.woff2') format('woff2'),
-         url('../fonts/bjorn/bjorn_halftone.woff') format('woff'),
-         url('../fonts/bjorn/bjorn_halftone.ttf') format('truetype'),
-         url('../fonts/bjorn/bjorn_halftone.svg#bjornhalftone') format('svg');
+    font-family: 'hk-bold';
+    src: url('../fonts/hk/hkgrotesk-bold.woff2') format('woff2'),
+         url('../fonts/hk/hkgrotesk-bold.woff') format('woff'),
+         url('../fonts/hk/hkgrotesk-bold.ttf') format('truetype'),
+         url('../fonts/hk/hkgrotesk-bold.svg#hk_groteskbold') format('svg');
 }
 
 @font-face {
-    font-family: 'bjorn-light';
-    src: url('../fonts/bjorn/bjorn_light.woff2') format('woff2'),
-         url('../fonts/bjorn/bjorn_light.woff') format('woff'),
-         url('../fonts/bjorn/bjorn_light.ttf') format('truetype'),
-         url('../fonts/bjorn/bjorn_light.svg#bjornlight') format('svg');
+    font-family: 'hk-bold-italic';
+    src: url('../fonts/hk/hkgrotesk-bolditalic.woff2') format('woff2'),
+         url('../fonts/hk/hkgrotesk-bolditalic.woff') format('woff'),
+         url('../fonts/hk/hkgrotesk-bolditalic.ttf') format('truetype'),
+         url('../fonts/hk/hkgrotesk-bolditalic.svg#hk_groteskbold_italic') format('svg');
 }
 
 @font-face {
-    font-family: 'bjorn';
-    src: url('../fonts/bjorn/bjorn_regular.woff2') format('woff2'),
-         url('../fonts/bjorn/bjorn_regular.woff') format('woff'),
-         url('../fonts/bjorn/bjorn_regular.ttf') format('truetype'),
-         url('../fonts/bjorn/bjorn_regular.svg#bjornregular') format('svg');
+    font-family: 'hk-italic';
+    src: url('../fonts/hk/hkgrotesk-italic.woff2') format('woff2'),
+         url('../fonts/hk/hkgrotesk-italic.woff') format('woff'),
+         url('../fonts/hk/hkgrotesk-italic.ttf') format('truetype'),
+         url('../fonts/hk/hkgrotesk-italic.svg#hk_groteskitalic') format('svg');
+}
+
+@font-face {
+    font-family: 'hk-medium';
+    src: url('../fonts/hk/hkgrotesk-medium.woff2') format('woff2'),
+         url('../fonts/hk/hkgrotesk-medium.woff') format('woff'),
+         url('../fonts/hk/hkgrotesk-medium.ttf') format('truetype'),
+         url('../fonts/hk/hkgrotesk-medium.svg#hk_groteskmedium') format('svg');
+}
+
+@font-face {
+    font-family: 'hk-medium-italic';
+    src: url('../fonts/hk/hkgrotesk-mediumitalic.woff2') format('woff2'),
+         url('../fonts/hk/hkgrotesk-mediumitalic.woff') format('woff'),
+         url('../fonts/hk/hkgrotesk-mediumitalic.ttf') format('truetype'),
+         url('../fonts/hk/hkgrotesk-mediumitalic.svg#hk_groteskmedium_italic') format('svg');
+}
+
+@font-face {
+    font-family: 'hk-regular';
+    src: url('../fonts/hk/hkgrotesk-regular.woff2') format('woff2'),
+         url('../fonts/hk/hkgrotesk-regular.woff') format('woff'),
+         url('../fonts/hk/hkgrotesk-regular.ttf') format('truetype'),
+         url('../fonts/hk/hkgrotesk-regular.svg#hk_groteskregular') format('svg');
 }
 
 @font-face {

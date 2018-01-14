@@ -1,5 +1,5 @@
 .project-frame {
-	color: #131D38;
+	color: #01003A;
 	background: rgba(255, 255, 255, 1);
 	position: relative;
 }
@@ -10,13 +10,13 @@
 }
 
 .project-cover h1 {
-	margin-bottom: 0;
+	margin: 5% 0 3%;
 	color:  #FFF;
 }
 
 .project-cover h2 {
+  color: #FFF;
 	line-height: 30px;
-	color: #FFF;
 }
 
 .back {
@@ -70,7 +70,7 @@ a.link-inline:hover {
 }
 
 .dark {
-	color: #131D38 !important;
+	color: #01003A !important;
 }
 
 .no-top {
@@ -136,7 +136,6 @@ iframe {
    
 @media screen and (max-width: 450px){
 	.project-frame {
-		margin: -20% 0 20% -6%;
-		width: 111.5%;
+		
 	}
 }

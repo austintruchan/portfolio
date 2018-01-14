@@ -20,15 +20,14 @@
 			
 			<nav><ul class="nav">
 					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
-					<li><a href="pages/-work.php" class="link-list">Work</a></li>
-					<li><a href="pages/-about.php" class="link-list">About</a></li></ul></nav>
-			
-			<div class="name"><img src="style/imgs/name.svg" alt="Austin Truchan"/></div>
-			<div class="name-small"><img src="style/imgs/name-small.svg" alt="Austin Truchan"/></div>
-			
-			<h2 class="intro">I’m Austin Truchan, a Digital Designer based in Michigan. <br class="rwd-break">I specialize in UI/UX, Interaction & Web Design. <br class="rwd-break">I am the Director of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h2>
+					<li><a href="pages/-work.php" class="link-list">work</a></li>
+					<li><a href="pages/-about.php" class="link-list">info</a></li></ul></nav>
+		
+		<h1> hello.</h1>
+		
+			<h3 class="intro">I'm Austin Truchan, a digital product designer with a strong belief in simplicity, delightful experiences, and human centered design. I craft digital products for web, mobile and experimental interfaces. I am the Head of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h3>
 						
-			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hey Austin!&body=Let's here your ideas!" class="link-action"> Let's Work Together</a><a href="pages/-about.php" class="link-action">Learn More</a></div>
+			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hey Austin!&body=Let's here your ideas!" class="link-action"> let's work together</a><a href="pages/-about.php" class="link-action">learn more</a></div>
 			
 			<div class="tiles"><ul>
 					<li class="tile"><a href="pages/halo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/halo/tile.png"/></a></li>
@@ -36,7 +35,7 @@
 					<li class="tile"><a href="pages/kresgo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/kresgo/tile.png"/></a></li>
 					<li class="tile"><a href="pages/catastrophe.php#<>"><div class="overlay"></div><img src="style/imgs/projects/catastrophe/tile.png"/></a></li>
 					<li class="tile"><a href="pages/videno.php#<>"><div class="overlay"></div><img src="style/imgs/projects/videno/tile.png"/></a></li>
-					<div class="view-all-work"><div><a href="pages/-work.php" class="link-action">View All Work</a></div></div></ul></div>
+					<div class="view-all-work"><div><a href="pages/-work.php" class="link-action">view all work</a></div></div></ul></div>
 		
 			<?php include 'includes/footer.php'; ?></div>
 			

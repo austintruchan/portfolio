@@ -2,37 +2,9 @@
 	margin-bottom: 5%;
 }
 
-.name img {
-	height: auto;
-	width: 100%;
-	transition: all 1s ease;
-}
-/*
-.name img:hover {
-	filter: drop-shadow(0 0px 5px rgba(255,255,255,.7));
-	transform: scale(1.03);
-}*/
-
-.name-small {
-	display: none;
-}
-
-.name-small img {
-	height: auto;
-	width: 70%;
-	min-width: 320px;
-	transition: all 1s ease;
-}
-
-/*
-.name-small img:hover {
-	filter: drop-shadow(0 0px 7px rgba(255,255,255,.5));
-	transform: scale(1.03);
-}*/
-
 .intro {
 	margin-bottom: 10%;
-	white-space: nowrap;
+	line-height: 1.7;
 }
 
 .intro-action {

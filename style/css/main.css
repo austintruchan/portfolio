@@ -115,15 +115,15 @@ h1, h2, h3 {
 }
 
 @-moz-document url-prefix() { 
-	/*
-  .blob {
-	border-radius: 50% !important;
-	animation: none !important;
+
+.blob {
+  background: rgba(28,40,244,.8) !important;
 }
 
 .blob.-two {
-  	animation: none !important;
-  }*/
+	background: rgba(221,28,98,.9) !important;
+}
+
 
 .tile {
 	background-color: transparent !important;

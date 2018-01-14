@@ -1,6 +1,6 @@
 html {
-	background: #000A28;
-	font-family: 'Ubuntu', sans-serif;
+	background: #01003A;
+	font-family: 'hk-regular', sans-serif;
 	color: #FFF;
 }
 
@@ -13,63 +13,65 @@ body {
 	margin: 0 auto;
 	max-width: 800px;
 	padding: 11% 10% 10% 10%;
+
 }
 
 h1 {
-	font-family: "Ubuntu-Medium", sans-serif;
-	font-size: 50px;
-	line-height: 60px;
-	word-break: keep-all;
+	font-family: "hk-bold", sans-serif;
+	font-size: 60px;
+	line-height: 1;
+	margin: -20px 0 30px 0;
+	hyphens: auto;
+	-webkit-hyphens: auto;
+	word-break: normal;
 }
 
 h2 {
-	font-family: 'Ubuntu', sans-serif;
-	font-size: 25px;
-	line-height: 40px;
+	font-family: 'hk-medium', sans-serif;
+	font-size: 30px;
+	line-height: 1.5;
 }
 
 h3 {
+	font-family: 'hk-regular', sans-serif;
 	font-size: 22px;
-	line-height: 40px;
-}
-
-a {
-	font-family: 'Ubuntu-Italic', sans-serif;
-}
-
-p {
-	font-family: 'Ubuntu', sans-serif;
-	font-size: 16px;
 	line-height: 30px;
 	margin: 0;
 }
 
-span {
-	font-family: 'Ubuntu-Medium', sans-serif;
-	font-size: 18px;
+a {
+	font-family: 'hk-medium', sans-serif;
 }
 
-span.underline {
-	border-bottom: 1px solid rgba(255,255,255,1);
-	font-family: 'Ubuntu', sans-serif;
-	font-size: 16px;
+p {
+	font-family: 'hk-regular', sans-serif;
+	font-size: 18px;
+	line-height: 36px;
+	margin: 0;
+}
+
+span {
+	font-family: inherit;
+	font-size: inherit;
+	text-decoration: underline;
 }
 
 .link {
-	border-bottom: 3px solid transparent;
+	border-bottom: 4px solid transparent;
 	color: #FFF;
-	padding: 3px;
+	font-size: inherit, 18px;
+	padding-bottom: : 3px;
 	transition: all .2s ease;
 }
 
 .link:hover {
-	border-bottom: 3px solid #FF3377;
+	border-bottom: 4px solid #FF3377;
 	color: #FF3377;
-	padding-bottom: 8px;
+	padding-bottom: 5px;
 }
 
 .link-list {
-	border-bottom: 3px solid transparent;
+	border-bottom: 4px solid transparent;
 	color: #FFF;
 	font-size: 18px;
 	margin: 0 -3px 0 30px;
@@ -78,19 +80,19 @@ span.underline {
 }
 
 .link-list:hover {
-	border-bottom: 3px solid #FF006A;
+	border-bottom: 4px solid #FF006A;
 	color: #FF3377;
 	padding-bottom: 8px;
 }
 
 .link-list.active {
-	border-bottom: 3px solid #FF006A;
+	border-bottom: 4px solid #FF006A;
 	color: #FF006A;
 	padding-bottom: 8px;
 }
 
 .link-action {
-	border-bottom: 3px solid #FF006A;
+	border-bottom: 4px solid #FF006A;
 	color: #FFF;
 	font-size: 18px;
 	margin: 0 40px 0 0;
@@ -100,7 +102,7 @@ span.underline {
 }
 
 .link-action:hover {
-	border-bottom: 3px solid #FF006A;
+	border-bottom: 4px solid #FF006A;
 	color: #FF3377;
 	padding: 0 3px 10px 3px;
 }
@@ -117,7 +119,7 @@ span.underline {
    
 @media screen and (max-width: 450px){
 	.frame {
-		padding: 15% 5%;
+		padding: 15% 8%;
 	}
 }
 

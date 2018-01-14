@@ -12,13 +12,8 @@ ul.nav li:first-child {
 }
 
 .logo {
-	margin-top: -5px;
+	margin-top: -15px;
 	transition: all 1s ease;
-}
-/*
-.logo:hover {
-	filter: drop-shadow(0 0px 7px rgba(255,255,255,.4));
-	transform: scale(1.03);
 }
 
 
@@ -27,7 +22,10 @@ ul.nav li:first-child {
    ========================================================================== */
    
 @media screen and (max-width: 650px){
+	nav {
+	  margin-bottom: 20%;
+  }
 	img.logo {
-		width: 90%;
+		width: 80%;
 	}
 }

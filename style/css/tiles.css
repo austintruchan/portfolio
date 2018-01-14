@@ -11,7 +11,7 @@
 }
 
 .tile {
-	background-color: #131D38;
+	background-color: #010029;
 	margin: 1%;
 	position: relative;
 	transition: all .2s ease-out;
@@ -30,7 +30,7 @@
 }
 
 .overlay {
-	background-color: rgba(14,21,41,1);
+	background-color: rgba(1,0,41,1);
 	height: 100%;
 	mix-blend-mode: color;
 	position: absolute;
@@ -39,7 +39,7 @@
 }
 
 .overlay:hover{
-	background-color: rgba(14,21,41,0);
+	background-color: rgba(1,0,41,0);
 }
 
 .tile img {

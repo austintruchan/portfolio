@@ -1,4 +1,4 @@
-<h2>Featured Works.</h2>
+<h2>featured.</h2>
 	
 	<div class="tiles">
 		<ul>
@@ -8,7 +8,7 @@
 			<li class="tile"><a href="catastrophe.php"><div class="overlay"></div><img src="../style/imgs/projects/catastrophe/tile.png"/></a></li>
 			<li class="tile"><a href="videno.php"><div class="overlay"></div><img src="../style/imgs/projects/videno/tile.png"/></a></li></ul></div>
 			
-	<h2>All Other Works.</h2>
+	<h2>everything else.</h2>
 	
 	<div class="tiles">
 		<ul>
