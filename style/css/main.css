@@ -117,17 +117,16 @@ h1, h2, h3 {
 @-moz-document url-prefix() { 
 
 .blob {
-  background: rgba(28,40,244,.8) !important;
+  background: rgba(221,28,98,.9) !important;
 }
 
 .blob.-two {
-	background: rgba(221,28,98,.9) !important;
+  background: rgba(28,40,244,.8) !important;
 }
 
 
 .tile {
 	background-color: transparent !important;
-	width: 33.33% !important;
 	margin: 0 !important;
 }
 
