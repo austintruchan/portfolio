@@ -30,8 +30,8 @@
 			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hey Austin!&body=Let's here your ideas!" class="link-action"> let's work together</a><a href="pages/-about.php" class="link-action">learn more</a></div>
 			
 			<div class="tiles"><ul>
+					<li class="tile"><a href="pages/road-less-traveled.php#<>"><div class="overlay"></div><img src="style/imgs/projects/road-less-traveled/tile.png"/></a></li>
 					<li class="tile"><a href="pages/halo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/halo/tile.png"/></a></li>
-					<li class="tile"><a href="pages/spheres.php#<>"><div class="overlay"></div><img src="style/imgs/projects/spheres/tile.png"/></a></li>
 					<li class="tile"><a href="pages/kresgo.php#<>"><div class="overlay"></div><img src="style/imgs/projects/kresgo/tile.png"/></a></li>
 					<li class="tile"><a href="pages/catastrophe.php#<>"><div class="overlay"></div><img src="style/imgs/projects/catastrophe/tile.png"/></a></li>
 					<li class="tile"><a href="pages/videno.php#<>"><div class="overlay"></div><img src="style/imgs/projects/videno/tile.png"/></a></li>

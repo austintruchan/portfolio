@@ -25,29 +25,20 @@
 			<div class="project-cover road-less-traveled">
 				<div class="project-cover-content">
 					<h1>The Road Less Traveled</h1>
-					<h2>Expiremental Graphic and Typographic Work.</h2></div></div>
+					<h2>Expiremental Web Design for an Adventure Gear Retailer.</h2></div></div>
 			
 			<div class="project-content">
 				
-				<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<p>This is a fun little concept I’ve been working on lately called “The Road Less Traveled” an adventure gear retailer who’s mission is simply getting everyone deep into uncharted wilderness, in attempts to find the purest connection between mankind and nature. Their brand is sophisticated, yet rugged, defining the quality of their products, and the rough terrain that their products allow them to travel travel through. Theres a lot of details here, so feel free to select the image to view it in full.
+</p>
 				
-				<a href="#img1"><img src="../style/imgs/projects/road-less-traveled/1.png"/></a>
-				<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/The Road Less Traveled/1.png"></a>
+				<a href="#img1"><img src="../style/imgs/projects/road-less-traveled/1.jpg"/></a>
+				<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/road-less-traveled/1.jpg"></a>
 				
-				<h2>Sub Title</h2>
-				<p>Content Coming Soon. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						
-				<a href="#img2"><img src="../style/imgs/projects/The Road Less Traveled/2.png"/></a>
-				<a onclick="goBack()" class="lightbox" id="img2"><img src="../style/imgs/projects/The Road Less Traveled/2.png"></a>
+				<a href="#img1"><img src="../style/imgs/projects/road-less-traveled/2.jpg"/></a>
+				<a onclick="goBack()" class="lightbox" id="img1"><img src="../style/imgs/projects/road-less-traveled/2.jpg"></a>
 				
-				<a href="#img3"><img src="../style/imgs/projects/The Road Less Traveled/3.png"/></a>
-				<a onclick="goBack()" class="lightbox" id="img3"><img src="../style/imgs/projects/The Road Less Traveled/3.png"></a>
-				
-				<a href="#img4"><img src="../style/imgs/projects/The Road Less Traveled/4.png"/></a>
-				<a onclick="goBack()" class="lightbox" id="img4"><img src="../style/imgs/projects/The Road Less Traveled/4.png"></a>
-				
-				<a href="#img5"><img src="../style/imgs/projects/The Road Less Traveled/5.png"/></a>
-				<a onclick="goBack()" class="lightbox" id="img5"><img src="../style/imgs/projects/The Road Less Traveled/5.png"></a>
+				<p>Check it out, and give it a like on <a href="https://dribbble.com/austintruchan" target="_blank" class="link-inline">Dribbble!</a></p>
 		
 		</div></div>
 
