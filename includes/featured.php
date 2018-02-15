@@ -2,8 +2,8 @@
 	
 	<div class="tiles">
 		<ul>
+			<li class="tile"><a href="road-less-traveled.php"><div class="overlay"></div><img src="../style/imgs/projects/road-less-traveled/tile.png"/></a></li>
 			<li class="tile"><a href="halo.php"><div class="overlay"></div><img src="../style/imgs/projects/halo/tile.png"/></a></li>
-			<li class="tile"><a href="spheres.php"><div class="overlay"></div><img src="../style/imgs/projects/spheres/tile.png"/></a></li>
 			<li class="tile"><a href="kresgo.php"><div class="overlay"></div><img src="../style/imgs/projects/kresgo/tile.png"/></a></li>
 			<li class="tile"><a href="catastrophe.php"><div class="overlay"></div><img src="../style/imgs/projects/catastrophe/tile.png"/></a></li>
 			<li class="tile"><a href="videno.php"><div class="overlay"></div><img src="../style/imgs/projects/videno/tile.png"/></a></li></ul></div>
@@ -12,6 +12,7 @@
 	
 	<div class="tiles">
 		<ul>
+			<li class="tile"><a href="spheres.php"><div class="overlay"></div><img src="../style/imgs/projects/spheres/tile.png"/></a></li>
 			<li class="tile"><a href="2030.php"><div class="overlay"></div><img src="../style/imgs/projects/2030/tile.png"/></a></li>
 			<li class="tile"><a href="adapt.php"><div class="overlay"></div><img src="../style/imgs/projects/adapt/tile.png"/></a></li>
 			<li class="tile"><a href="eisenman.php"><div class="overlay"></div><img src="../style/imgs/projects/eisenman/tile.png"/></a></li>

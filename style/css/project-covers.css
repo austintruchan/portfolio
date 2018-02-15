@@ -51,6 +51,12 @@
 	background-size: cover;
 }
 
+.road-less-traveled {
+	background: url("../imgs/projects/road-less-traveled/splash.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
 .spartahack {
 	background: url("../imgs/projects/spartahack/splash.jpg") no-repeat;
 	background-position: center top;

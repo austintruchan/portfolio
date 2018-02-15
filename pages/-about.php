@@ -22,8 +22,10 @@
 					<li><a href="../index.php"><img class="logo" src="../style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
 					<li><a href="-work.php" class="link-list">work</a></li>
 					<li><a href="-about.php" class="link-list active">info</a></li></ul></nav>
+					
+					<h2>hey there. I'm austin.</h2>
 				
-			<p class="about">I’m Austin Truchan, a Digital Designer currently residing in East Lansing, Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from frontend development, to logo/icon design, to experimental graphic design. I am also rather obsessed with dystopic scifi genres, and the clash of geometric and organic forms.<br><br><span>I’m currently on the lookout for new projects!</span> If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
+			<p class="about">I’m a Digital Designer currently residing in East Lansing, Michigan. I specialize in UI/UX, Interaction & Web Design, but dabble in everything from frontend development, to logo/icon design, to experimental graphic design. I am also rather obsessed with dystopic scifi genres, and the clash of geometric and organic forms.<br><br><span>I’m currently on the lookout for new projects!</span> If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
 			
 			<div class="link-frame">
 			<a href="mailto:austintruchan@me.com?&subject=Hello.&body=So.... whats up?" class="link-action">austintruchan@me.com</a></div>
