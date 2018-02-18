@@ -38,7 +38,7 @@
 				<a href="#img2"><img src="../style/imgs/projects/road-less-traveled/2.jpg"/></a>
 				<a onclick="goBack()" class="lightbox" id="img2"><img src="../style/imgs/projects/road-less-traveled/2.jpg"></a>
 				
-				<p>Check it out, and give it a like on <a href="https://dribbble.com/austintruchan" target="_blank" class="link-inline">Dribbble!</a> (Actually Coming Soon).</p>
+				<p>Check it out, and give it a like on <a href="https://dribbble.com/austintruchan" target="_blank" class="link-inline">Dribbble!</a> (Actually Coming Soon // Waiting for the optimal time to post).</p>
 		
 		</div></div>
 
