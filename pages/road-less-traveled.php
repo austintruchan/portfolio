@@ -29,7 +29,7 @@
 			
 			<div class="project-content">
 				
-				<p>This is a fun little concept I’ve been working on lately called “The Road Less Traveled” an adventure gear shop who’s mission is simply getting everyone deep into uncharted wilderness, in attempts to find the purest connection between mankind and nature. Their brand is sophisticated, yet rugged, defining the quality of their products, and the rough terrain that their products allow them to travel through. Theres a lot of details here, so feel free to select the image to view it in full.
+				<p>This is an experimental web design concept I’ve been working on lately called “The Road Less Traveled” an outdoor / adventure gear shop who’s mission is simply to encourage people to get outside, and explore nature. This is their conceptual home page. Their brand is sophisticated, and rugged, defining the quality of their products, and the rough terrain that their products allow them to travel travel through. Theres a lot of details here, so feel free to select the image to view it in full.
 </p>
 				
 				<a href="#img1"><img src="../style/imgs/projects/road-less-traveled/1.jpg"/></a>
@@ -38,7 +38,10 @@
 				<a href="#img2"><img src="../style/imgs/projects/road-less-traveled/2.jpg"/></a>
 				<a onclick="goBack()" class="lightbox" id="img2"><img src="../style/imgs/projects/road-less-traveled/2.jpg"></a>
 				
-				<p>Check it out, and give it a like on <a href="https://dribbble.com/austintruchan" target="_blank" class="link-inline">Dribbble!</a> (Actually Coming Soon // Waiting for the optimal time to post).</p>
+				<p>Check it out, and give it a like on <a href="https://dribbble.com/austintruchan" target="_blank" class="link-inline">Dribbble!</a></p>
+				
+				<a href="#img3"><img src="../style/imgs/projects/road-less-traveled/3.jpg"/></a>
+				<a onclick="goBack()" class="lightbox" id="img3"><img src="../style/imgs/projects/road-less-traveled/3.jpg"></a>
 		
 		</div></div>
 
