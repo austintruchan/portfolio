@@ -81,6 +81,12 @@
 	background-size: cover;
 }
 
+.tymr {
+	background: url("../imgs/projects/tymr/splash.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
 .uuraf {
 	background: url("../imgs/projects/uuraf/splash.jpg") no-repeat;
 	background-position: center top;

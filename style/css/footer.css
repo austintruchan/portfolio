@@ -7,7 +7,7 @@ footer ul {
 	display: flex;
 }
 
-footer ul li:first-child {
+footer ul li:nth-child(2) {
 	margin-right: auto;
 }
 
@@ -20,6 +20,10 @@ footer ul li:first-child {
 	footer ul {
 		display: block;
 	}
+	
+	footer ul li:nth-child(2) {
+	margin-top: 35px;
+}
 	
 	footer ul li:nth-last-child(-n+5) {
 		display: inline-block;

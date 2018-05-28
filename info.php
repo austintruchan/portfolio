@@ -1,27 +1,27 @@
 <!doctype html>
 <html class="no-js" lang="">
     <head>
-	    <?php include '../includes/head.php'; ?>
+	    <?php include 'includes/head.php'; ?>
 	    <title>Austin Truchan. Digital Designer</title>
-	    <link rel="manifest" href="../site.webmanifest">
-        <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-        <link rel="stylesheet" href="../style/css/normalize.css">
-        <link rel="stylesheet" href="../style/css/main.css">
-        <link rel="stylesheet" href="../style/css/fonts.css">
-        <link rel="stylesheet" href="../style/css/global.css">
-        <link rel="stylesheet" href="../style/css/bg.css">
-        <link rel="stylesheet" href="../style/css/about.css">
-        <link rel="stylesheet" href="../style/css/navigation.css">
-        <link rel="stylesheet" href="../style/css/footer.css">
+	    <link rel="manifest" href="site.webmanifest">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="stylesheet" href="style/css/normalize.css">
+        <link rel="stylesheet" href="style/css/main.css">
+        <link rel="stylesheet" href="style/css/fonts.css">
+        <link rel="stylesheet" href="style/css/global.css">
+        <link rel="stylesheet" href="style/css/bg.css">
+        <link rel="stylesheet" href="style/css/about.css">
+        <link rel="stylesheet" href="style/css/navigation.css">
+        <link rel="stylesheet" href="style/css/footer.css">
     </head>
 	<body>
 		<div class="frame">
 			
 			<nav>
 				<ul class="nav">
-					<li><a href="../index.php"><img class="logo" src="../style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
-					<li><a href="-work.php" class="link-list">work</a></li>
-					<li><a href="-about.php" class="link-list active">info</a></li></ul></nav>
+					<li><a href="index.php"><img class="logo" src="style/imgs/logo.svg" alt="Austin Truchan Logo"/></a></li>
+					<li><a href="work" class="link-list">work</a></li>
+					<li><a href="info" class="link-list active">info</a></li></ul></nav>
 					
 					<h2>hey there.</h2>
 				
@@ -33,7 +33,7 @@
 			<a href="mailto:austintruchan@me.com?&subject=Hello.&body=So.... whats up?" class="link-action">austintruchan@me.com</a></div>
 			
 			<div class="link-frame">
-			<a href="../style/imgs/AustinTruchan-Resume.pdf" class="link-action" target="_blank">View Resume</a></div>
+			<a href="AustinTruchan-Resume.pdf" class="link-action" target="_blank">View Resume</a></div>
 			
 			
 			<br><br><br><br>
@@ -48,12 +48,12 @@ Outside of Matrix, I continue to design, design & do more design. I work remotel
 			<h2>likes.</h2>
 			<p class="about">When i'm not designing, i'm probably walking and hiking all of the local nature trails, making myself a hot pour-over coffee, or reading and learning about something new. I've recently fallen in love with zen-ing out, learning how to meditate and do yoga, becoming a minimalist, and how to properly shoot a DSLR. </p>
 			
-			<?php include '../includes/footer.php'; ?></div>
+			<?php include 'includes/footer.php'; ?></div>
 		
 		<div class="blob-frame">
 				<div class='blob -one'></div>
 				<div class='blob -two'></div></div>
 			
-		<?php include '../includes/foot.php'; ?>
+		<?php include 'includes/foot.php'; ?>
 	</body>
 </html>
