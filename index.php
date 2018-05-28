@@ -30,7 +30,7 @@
 			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hello.&body=So.... whats up?" class="link-action"> let's work together</a><a href="pages/-about.php" class="link-action">learn more</a></div>
 			
 			<div class="tiles"><ul>
-					<li class="tile"><a href="pages/road-less-traveled.php#<>"><div class="overlay"></div><img src="style/imgs/projects/road-less-traveled/tile.png"/></a></li>
+					<li class="tile"><a href="projects/road-less-traveled"><div class="overlay"></div><img src="style/imgs/projects/road-less-traveled/tile.png"/></a></li>
 					<li class="tile"><a href="projects/tymr"><div class="overlay"></div><img src="../style/imgs/projects/tymr/tile.png"/></a></li>
 					<li class="tile"><a href="projects/halo"><div class="overlay"></div><img src="style/imgs/projects/halo/tile.png"/></a></li>
 					<li class="tile"><a href="projects/kresgo"><div class="overlay"></div><img src="style/imgs/projects/kresgo/tile.png"/></a></li>

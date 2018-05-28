@@ -6,7 +6,7 @@
 			<li class="tile"><a href="tymr"><div class="overlay"></div><img src="../style/imgs/projects/tymr/tile.png"/></a></li>
 			<li class="tile"><a href="halo"><div class="overlay"></div><img src="../style/imgs/projects/halo/tile.png"/></a></li>
 			<li class="tile"><a href="kresgo"><div class="overlay"></div><img src="../style/imgs/projects/kresgo/tile.png"/></a></li>
-			<li class="tile"><a href="projects/catastrophe"><div class="overlay"></div><img src="../style/imgs/projects/catastrophe/tile.png"/></a></li></ul></div>
+			<li class="tile"><a href="catastrophe"><div class="overlay"></div><img src="../style/imgs/projects/catastrophe/tile.png"/></a></li></ul></div>
 			
 	<h2>everything else.</h2>
 	
