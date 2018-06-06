@@ -30,7 +30,7 @@
 			<br><br>If you're interested in working together, have feedback for this site or any of my works, or just want to say "hey," please feel free to get in touch!</p>
 			
 			<div class="link-frame">
-			<a href="mailto:austintruchan@me.com?&subject=Hello.&body=So.... whats up?" class="link-action">austintruchan@me.com</a></div>
+			<a href="mailto:austintruchan@me.com?&subject=Hello!&body=So.... whats up?" class="link-action">austintruchan@me.com</a></div>
 			
 			<div class="link-frame">
 			<a href="AustinTruchan-Resume.pdf" class="link-action" target="_blank">View Resume</a></div>

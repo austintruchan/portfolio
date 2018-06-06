@@ -74,7 +74,7 @@
 				
 				<p>And of course the full cross-device experience isn’t complete without a native iPad app. The iPad version isn’t too different from the Mac version, but is a great addition for those that prefer working on their iPads.</p>
 						
-				<p>Check it out, give it a like, and provide some feedback on <a href="https://dribbble.com/austintruchan" target="_blank" class="link-inline">Dribbble!</a></p>
+				<p>Check it out, give it a like, and provide some feedback on <a href="https://dribbble.com/austintruchan/projects/720502-Tymr" target="_blank" class="link-inline">Dribbble!</a></p>
 				
 				<a href="#img5"><img class="no-shadow" src="../style/imgs/projects/tymr/5.png"/></a>
 				<a onclick="goBack()" class="lightbox" id="img5"><img src="../style/imgs/projects/tymr/5.png"></a>

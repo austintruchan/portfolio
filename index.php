@@ -27,7 +27,7 @@
 		
 			<h3 class="intro">I'm Austin Truchan, a digital product designer with a strong belief in simplicity, delightful experiences, and human centered design. I craft digital products for web, mobile and experimental interfaces. I am the Head of Design at <a href="http://www.matrix.msu.edu" target="_blank" class="link">Matrix</a>.</h3>
 						
-			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hello.&body=So.... whats up?" class="link-action"> let's work together</a><a href="pages/-about.php" class="link-action">learn more</a></div>
+			<div class="intro-action"><a href="mailto:austintruchan@me.com?&subject=Hello!&body=So.... whats up?" class="link-action"> let's work together</a><a href="pages/-about.php" class="link-action">learn more</a></div>
 			
 			<div class="tiles"><ul>
 					<li class="tile"><a href="projects/road-less-traveled"><div class="overlay"></div><img src="style/imgs/projects/road-less-traveled/tile.png"/></a></li>
