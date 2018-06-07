@@ -7,9 +7,15 @@ footer ul {
 	display: flex;
 }
 
+footer ul li:first-child {
+	margin-right: auto;
+}
+
+/* If second link is added next to 'Say Hello'
 footer ul li:nth-child(2) {
 	margin-right: auto;
 }
+*/
 
 
 /* ==========================================================================
@@ -21,9 +27,11 @@ footer ul li:nth-child(2) {
 		display: block;
 	}
 	
+	/* If second link is added next to 'Say Hello'
 	footer ul li:nth-child(2) {
 	margin-top: 35px;
-}
+	}
+*/
 	
 	footer ul li:nth-last-child(-n+5) {
 		display: inline-block;
