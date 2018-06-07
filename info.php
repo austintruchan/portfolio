@@ -23,7 +23,7 @@
 					<li><a href="work" class="link-list">work</a></li>
 					<li><a href="info" class="link-list active">info</a></li></ul></nav>
 					
-					<h2>welcome.</h2>
+					<h2>greetings.</h2>
 					
 					<div class="me"><div class="img-wrap"><div class="overlay"></div><img src="style/imgs/me.jpg"/></div></div>
 				
